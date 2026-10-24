@@ -1,0 +1,8597 @@
+{
+ "generatedAt": "2026-10-24T05:18:58.914Z",
+ "sources": {
+  "wikidata": {
+   "name": "Wikidata / Wikipedia",
+   "url": "https://www.wikidata.org/"
+  },
+  "worldbank": {
+   "name": "World Bank Open Data",
+   "url": "https://data.worldbank.org/"
+  },
+  "worldbank-mirror": {
+   "name": "World Bank Open Data (datasets mirror)",
+   "url": "https://github.com/datasets/population"
+  },
+  "mledoze": {
+   "name": "mledoze/countries",
+   "url": "https://github.com/mledoze/countries"
+  },
+  "derived": {
+   "name": "Calculated from the figures above",
+   "url": "https://www.wikidata.org/"
+  }
+ },
+ "countries": [
+  {
+   "code": "AD",
+   "iso3": "AND",
+   "name": {
+    "en": "Andorra",
+    "hu": "Andorra"
+   },
+   "continent": "europe",
+   "latlng": [
+    42.5,
+    1.5
+   ],
+   "fame": 145,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Andorra",
+    "hu": "https://hu.wikipedia.org/wiki/Andorra"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 82904,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 468,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 3727673593,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 177,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 44964,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "AE",
+   "iso3": "ARE",
+   "name": {
+    "en": "United Arab Emirates",
+    "hu": "Egyesült Arab Emírségek"
+   },
+   "continent": "asia",
+   "latlng": [
+    24,
+    54
+   ],
+   "fame": 188,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+    "hu": "https://hu.wikipedia.org/wiki/Egyes%C3%BClt_Arab_Em%C3%ADrs%C3%A9gek"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 11513149,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 83600,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 504173451327,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 138,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 43791,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "AF",
+   "iso3": "AFG",
+   "name": {
+    "en": "Afghanistan",
+    "hu": "Afganisztán"
+   },
+   "continent": "asia",
+   "latlng": [
+    33,
+    65
+   ],
+   "fame": 178,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Afghanistan",
+    "hu": "https://hu.wikipedia.org/wiki/Afganiszt%C3%A1n"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 43844111,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 652230,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2022,
+     "value": 14502158192,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 67.22,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 331,
+     "year": 2022,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "AG",
+   "iso3": "ATG",
+   "name": {
+    "en": "Antigua and Barbuda",
+    "hu": "Antigua és Barbuda"
+   },
+   "continent": "north-america",
+   "latlng": [
+    17.05,
+    -61.8
+   ],
+   "fame": 143,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Antigua_and_Barbuda",
+    "hu": "https://hu.wikipedia.org/wiki/Antigua_%C3%A9s_Barbuda"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 94209,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 442,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 2033085185,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 213,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 21581,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "AL",
+   "iso3": "ALB",
+   "name": {
+    "en": "Albania",
+    "hu": "Albánia"
+   },
+   "continent": "europe",
+   "latlng": [
+    41,
+    20
+   ],
+   "fame": 167,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Albania",
+    "hu": "https://hu.wikipedia.org/wiki/Alb%C3%A1nia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 2349580,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 28748,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 22977677861,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 81.73,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 9779,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "AM",
+   "iso3": "ARM",
+   "name": {
+    "en": "Armenia",
+    "hu": "Örményország"
+   },
+   "continent": "asia",
+   "latlng": [
+    40,
+    45
+   ],
+   "fame": 169,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Armenia",
+    "hu": "https://hu.wikipedia.org/wiki/%C3%96rm%C3%A9nyorsz%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 3086700,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 29743,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 24212134631,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 104,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 7844,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "AO",
+   "iso3": "AGO",
+   "name": {
+    "en": "Angola",
+    "hu": "Angola"
+   },
+   "continent": "africa",
+   "latlng": [
+    -12.5,
+    18.5
+   ],
+   "fame": 185,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Angola",
+    "hu": "https://hu.wikipedia.org/wiki/Angola"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 39040039,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 1246700,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 84722957642,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 31.31,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 2170,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "AR",
+   "iso3": "ARG",
+   "name": {
+    "en": "Argentina",
+    "hu": "Argentína"
+   },
+   "continent": "south-america",
+   "latlng": [
+    -34,
+    -64
+   ],
+   "fame": 195,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Argentina",
+    "hu": "https://hu.wikipedia.org/wiki/Argent%C3%ADna"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 45851378,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 2780400,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 640591410664,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 16.49,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 13971,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "AT",
+   "iso3": "AUT",
+   "name": {
+    "en": "Austria",
+    "hu": "Ausztria"
+   },
+   "continent": "europe",
+   "latlng": [
+    47.33333333,
+    13.33333333
+   ],
+   "fame": 187,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Austria",
+    "hu": "https://hu.wikipedia.org/wiki/Ausztria"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 9208163,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 83871,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 516034144116,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 110,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 56041,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "AU",
+   "iso3": "AUS",
+   "name": {
+    "en": "Australia",
+    "hu": "Ausztrália"
+   },
+   "continent": "oceania",
+   "latlng": [
+    -27,
+    133
+   ],
+   "fame": 197,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Australia",
+    "hu": "https://hu.wikipedia.org/wiki/Ausztr%C3%A1lia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 27614411,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 7692024,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 1723827215335,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 3.59,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 62425,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "AZ",
+   "iso3": "AZE",
+   "name": {
+    "en": "Azerbaijan",
+    "hu": "Azerbajdzsán"
+   },
+   "continent": "asia",
+   "latlng": [
+    40.5,
+    47.5
+   ],
+   "fame": 179,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Azerbaijan",
+    "hu": "https://hu.wikipedia.org/wiki/Azerbajdzs%C3%A1n"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 10246996,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 86600,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 72356176471,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 118,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 7061,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "BA",
+   "iso3": "BIH",
+   "name": {
+    "en": "Bosnia and Herzegovina",
+    "hu": "Bosznia-Hercegovina"
+   },
+   "continent": "europe",
+   "latlng": [
+    44,
+    18
+   ],
+   "fame": 169,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+    "hu": "https://hu.wikipedia.org/wiki/Bosznia-Hercegovina"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 3140095,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 51209,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 27054889363,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 61.32,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 8616,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "BB",
+   "iso3": "BRB",
+   "name": {
+    "en": "Barbados",
+    "hu": "Barbados"
+   },
+   "continent": "north-america",
+   "latlng": [
+    13.16666666,
+    -59.53333333
+   ],
+   "fame": 153,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Barbados",
+    "hu": "https://hu.wikipedia.org/wiki/Barbados"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 282623,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 430,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 6393564190,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 657,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 22622,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "BD",
+   "iso3": "BGD",
+   "name": {
+    "en": "Bangladesh",
+    "hu": "Banglades"
+   },
+   "continent": "asia",
+   "latlng": [
+    24,
+    90
+   ],
+   "fame": 199,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Bangladesh",
+    "hu": "https://hu.wikipedia.org/wiki/Banglades"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 175686899,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 147570,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 437415331041,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 1191,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 2490,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "BE",
+   "iso3": "BEL",
+   "name": {
+    "en": "Belgium",
+    "hu": "Belgium"
+   },
+   "continent": "europe",
+   "latlng": [
+    50.83333333,
+    4
+   ],
+   "fame": 189,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Belgium",
+    "hu": "https://hu.wikipedia.org/wiki/Belgium"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 11941781,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 30528,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 632216577075,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 391,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 52942,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "BF",
+   "iso3": "BFA",
+   "name": {
+    "en": "Burkina Faso",
+    "hu": "Burkina"
+   },
+   "continent": "africa",
+   "latlng": [
+    13,
+    -2
+   ],
+   "fame": 177,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Burkina_Faso",
+    "hu": "https://hu.wikipedia.org/wiki/Burkina"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 24074580,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 272967,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 20324617839,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 88.2,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 844,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "BG",
+   "iso3": "BGR",
+   "name": {
+    "en": "Bulgaria",
+    "hu": "Bulgária"
+   },
+   "continent": "europe",
+   "latlng": [
+    43,
+    25
+   ],
+   "fame": 178,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Bulgaria",
+    "hu": "https://hu.wikipedia.org/wiki/Bulg%C3%A1ria"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 6433302,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 110879,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 101584384673,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 58.02,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 15790,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "BH",
+   "iso3": "BHR",
+   "name": {
+    "en": "Bahrain",
+    "hu": "Bahrein"
+   },
+   "continent": "asia",
+   "latlng": [
+    26,
+    50.55
+   ],
+   "fame": 168,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Bahrain",
+    "hu": "https://hu.wikipedia.org/wiki/Bahrein"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 1600366,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 765,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 43205000000,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 2092,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 26997,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "BI",
+   "iso3": "BDI",
+   "name": {
+    "en": "Burundi",
+    "hu": "Burundi"
+   },
+   "continent": "africa",
+   "latlng": [
+    -3.5,
+    30
+   ],
+   "fame": 166,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Burundi",
+    "hu": "https://hu.wikipedia.org/wiki/Burundi"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 14390003,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 27834,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 2642161669,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 517,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 184,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "BJ",
+   "iso3": "BEN",
+   "name": {
+    "en": "Benin",
+    "hu": "Benin"
+   },
+   "continent": "africa",
+   "latlng": [
+    9.5,
+    2.25
+   ],
+   "fame": 175,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Benin",
+    "hu": "https://hu.wikipedia.org/wiki/Benin"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 14814460,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 112622,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 19673284686,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 132,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1328,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "BN",
+   "iso3": "BRN",
+   "name": {
+    "en": "Brunei",
+    "hu": "Brunei"
+   },
+   "continent": "asia",
+   "latlng": [
+    4.5,
+    114.66666666
+   ],
+   "fame": 158,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Brunei",
+    "hu": "https://hu.wikipedia.org/wiki/Brunei"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 466330,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 5765,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 15128292954,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 80.89,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 32441,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "BO",
+   "iso3": "BOL",
+   "name": {
+    "en": "Bolivia",
+    "hu": "Bolívia"
+   },
+   "continent": "south-america",
+   "latlng": [
+    -17,
+    -65
+   ],
+   "fame": 178,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Bolivia",
+    "hu": "https://hu.wikipedia.org/wiki/Bol%C3%ADvia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 12581843,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 1098581,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 45849832906,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 11.45,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 3644,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "BR",
+   "iso3": "BRA",
+   "name": {
+    "en": "Brazil",
+    "hu": "Brazília"
+   },
+   "continent": "south-america",
+   "latlng": [
+    -10,
+    -55
+   ],
+   "fame": 207,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Brazil",
+    "hu": "https://hu.wikipedia.org/wiki/Braz%C3%ADlia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 212812405,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 8515767,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 2173665655937,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 24.99,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 10214,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "BS",
+   "iso3": "BHS",
+   "name": {
+    "en": "Bahamas",
+    "hu": "Bahama-szigetek"
+   },
+   "continent": "north-america",
+   "latlng": [
+    24.25,
+    -76
+   ],
+   "fame": 158,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Bahamas",
+    "hu": "https://hu.wikipedia.org/wiki/Bahama-szigetek"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 403033,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 13943,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 14338500000,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 28.91,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 35576,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "BT",
+   "iso3": "BTN",
+   "name": {
+    "en": "Bhutan",
+    "hu": "Bhután"
+   },
+   "continent": "asia",
+   "latlng": [
+    27.5,
+    90.5
+   ],
+   "fame": 154,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Bhutan",
+    "hu": "https://hu.wikipedia.org/wiki/Bhut%C3%A1n"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 796682,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 38394,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2022,
+     "value": 2898227713,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 20.75,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 3638,
+     "year": 2022,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "BW",
+   "iso3": "BWA",
+   "name": {
+    "en": "Botswana",
+    "hu": "Botswana"
+   },
+   "continent": "africa",
+   "latlng": [
+    -22,
+    24
+   ],
+   "fame": 167,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Botswana",
+    "hu": "https://hu.wikipedia.org/wiki/Botswana"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 2562122,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 582000,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 19395765126,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 4.4,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 7570,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "BY",
+   "iso3": "BLR",
+   "name": {
+    "en": "Belarus",
+    "hu": "Fehéroroszország"
+   },
+   "continent": "europe",
+   "latlng": [
+    53,
+    28
+   ],
+   "fame": 178,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Belarus",
+    "hu": "https://hu.wikipedia.org/wiki/Feh%C3%A9roroszorsz%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 9085991,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 207600,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 71857382746,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 43.77,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 7909,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "BZ",
+   "iso3": "BLZ",
+   "name": {
+    "en": "Belize",
+    "hu": "Belize"
+   },
+   "continent": "north-america",
+   "latlng": [
+    17.25,
+    -88.75
+   ],
+   "fame": 151,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Belize",
+    "hu": "https://hu.wikipedia.org/wiki/Belize"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 422924,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 22966,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 3281500000,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 18.42,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 7759,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "CA",
+   "iso3": "CAN",
+   "name": {
+    "en": "Canada",
+    "hu": "Kanada"
+   },
+   "continent": "north-america",
+   "latlng": [
+    60,
+    -95
+   ],
+   "fame": 200,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Canada",
+    "hu": "https://hu.wikipedia.org/wiki/Kanada"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 41651653,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 9984670,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 2140085567791,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 4.17,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 51381,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "CD",
+   "iso3": "COD",
+   "name": {
+    "en": "DR Congo",
+    "hu": "Kongói Demokratikus Köztársaság"
+   },
+   "continent": "africa",
+   "latlng": [
+    0,
+    25
+   ],
+   "fame": 189,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/DR_Congo",
+    "hu": "https://hu.wikipedia.org/wiki/Kong%C3%B3i_Demokratikus_K%C3%B6zt%C3%A1rsas%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 112832473,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 2344858,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 66383287003,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 48.12,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 588,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "CF",
+   "iso3": "CAF",
+   "name": {
+    "en": "Central African Republic",
+    "hu": "Közép-afrikai Köztársaság"
+   },
+   "continent": "africa",
+   "latlng": [
+    7,
+    21
+   ],
+   "fame": 161,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Central_African_Republic",
+    "hu": "https://hu.wikipedia.org/wiki/K%C3%B6z%C3%A9p-afrikai_K%C3%B6zt%C3%A1rsas%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 5513282,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 622984,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 2555492085,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 8.85,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 464,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "CG",
+   "iso3": "COG",
+   "name": {
+    "en": "Congo",
+    "hu": "Kongói Köztársaság"
+   },
+   "continent": "africa",
+   "latlng": [
+    -1,
+    15
+   ],
+   "fame": 170,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Congo",
+    "hu": "https://hu.wikipedia.org/wiki/Kong%C3%B3i_K%C3%B6zt%C3%A1rsas%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 6484437,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 342000,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 15321055818,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 18.96,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 2363,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "CH",
+   "iso3": "CHE",
+   "name": {
+    "en": "Switzerland",
+    "hu": "Svájc"
+   },
+   "continent": "europe",
+   "latlng": [
+    47,
+    8
+   ],
+   "fame": 189,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Switzerland",
+    "hu": "https://hu.wikipedia.org/wiki/Sv%C3%A1jc"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 9092436,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 41284,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 884940402230,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 220,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 97327,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "CI",
+   "iso3": "CIV",
+   "name": {
+    "en": "Ivory Coast",
+    "hu": "Elefántcsontpart"
+   },
+   "continent": "africa",
+   "latlng": [
+    8,
+    -5
+   ],
+   "fame": 184,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Ivory_Coast",
+    "hu": "https://hu.wikipedia.org/wiki/Elef%C3%A1ntcsontpart"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 32711547,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 322463,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 78788828907,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 101,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 2409,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "CL",
+   "iso3": "CHL",
+   "name": {
+    "en": "Chile",
+    "hu": "Chile"
+   },
+   "continent": "south-america",
+   "latlng": [
+    -30,
+    -71
+   ],
+   "fame": 188,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Chile",
+    "hu": "https://hu.wikipedia.org/wiki/Chile"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 19859921,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 756102,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 335533331669,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 26.27,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 16895,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "CM",
+   "iso3": "CMR",
+   "name": {
+    "en": "Cameroon",
+    "hu": "Kamerun"
+   },
+   "continent": "africa",
+   "latlng": [
+    6,
+    12
+   ],
+   "fame": 182,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Cameroon",
+    "hu": "https://hu.wikipedia.org/wiki/Kamerun"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 29879337,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 475442,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 47945510090,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 62.85,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1605,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "CN",
+   "iso3": "CHN",
+   "name": {
+    "en": "China",
+    "hu": "Kína"
+   },
+   "continent": "asia",
+   "latlng": [
+    35,
+    105
+   ],
+   "fame": 224,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/China",
+    "hu": "https://hu.wikipedia.org/wiki/K%C3%ADna"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 1406585000,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 9706961,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 17794781986104,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 145,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 12651,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "CO",
+   "iso3": "COL",
+   "name": {
+    "en": "Colombia",
+    "hu": "Kolumbia"
+   },
+   "continent": "south-america",
+   "latlng": [
+    4,
+    -72
+   ],
+   "fame": 193,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Colombia",
+    "hu": "https://hu.wikipedia.org/wiki/Kolumbia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 53425635,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 1141748,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 363540156235,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 46.79,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 6805,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "CR",
+   "iso3": "CRI",
+   "name": {
+    "en": "Costa Rica",
+    "hu": "Costa Rica"
+   },
+   "continent": "north-america",
+   "latlng": [
+    10,
+    -84
+   ],
+   "fame": 176,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Costa_Rica",
+    "hu": "https://hu.wikipedia.org/wiki/Costa_Rica"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 5152950,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 51100,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 86497941439,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 101,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 16786,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "CU",
+   "iso3": "CUB",
+   "name": {
+    "en": "Cuba",
+    "hu": "Kuba"
+   },
+   "continent": "north-america",
+   "latlng": [
+    21.5,
+    -80
+   ],
+   "fame": 181,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Cuba",
+    "hu": "https://hu.wikipedia.org/wiki/Kuba"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 10937203,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 109884,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2020,
+     "value": 107351800000,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 99.53,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 9815,
+     "year": 2020,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "CV",
+   "iso3": "CPV",
+   "name": {
+    "en": "Cape Verde",
+    "hu": "Zöld-foki Köztársaság"
+   },
+   "continent": "africa",
+   "latlng": [
+    16,
+    -24
+   ],
+   "fame": 151,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Cape_Verde",
+    "hu": "https://hu.wikipedia.org/wiki/Z%C3%B6ld-foki_K%C3%B6zt%C3%A1rsas%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 527326,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 4033,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 2587252076,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 131,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 4906,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "CY",
+   "iso3": "CYP",
+   "name": {
+    "en": "Cyprus",
+    "hu": "Ciprus"
+   },
+   "continent": "europe",
+   "latlng": [
+    35,
+    33
+   ],
+   "fame": 166,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Cyprus",
+    "hu": "https://hu.wikipedia.org/wiki/Ciprus"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 1370754,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 9251,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 32229622669,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 148,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 23512,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "CZ",
+   "iso3": "CZE",
+   "name": {
+    "en": "Czechia",
+    "hu": "Csehország"
+   },
+   "continent": "europe",
+   "latlng": [
+    49.75,
+    15.5
+   ],
+   "fame": 186,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Czechia",
+    "hu": "https://hu.wikipedia.org/wiki/Csehorsz%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 10886878,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 78865,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 330858339872,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 138,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 30391,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "DE",
+   "iso3": "DEU",
+   "name": {
+    "en": "Germany",
+    "hu": "Németország"
+   },
+   "continent": "europe",
+   "latlng": [
+    51,
+    9
+   ],
+   "fame": 206,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Germany",
+    "hu": "https://hu.wikipedia.org/wiki/N%C3%A9metorsz%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 83491249,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 357114,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 4456081016706,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 234,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 53372,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "DJ",
+   "iso3": "DJI",
+   "name": {
+    "en": "Djibouti",
+    "hu": "Dzsibuti"
+   },
+   "continent": "africa",
+   "latlng": [
+    11.5,
+    43
+   ],
+   "fame": 157,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Djibouti",
+    "hu": "https://hu.wikipedia.org/wiki/Dzsibuti"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 1184076,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 23200,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 4098530514,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 51.04,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 3461,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "DK",
+   "iso3": "DNK",
+   "name": {
+    "en": "Denmark",
+    "hu": "Dánia"
+   },
+   "continent": "europe",
+   "latlng": [
+    56,
+    10
+   ],
+   "fame": 184,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Denmark",
+    "hu": "https://hu.wikipedia.org/wiki/D%C3%A1nia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 6009169,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 43094,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 404198757538,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 139,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 67264,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "DM",
+   "iso3": "DMA",
+   "name": {
+    "en": "Dominica",
+    "hu": "Dominikai Közösség"
+   },
+   "continent": "north-america",
+   "latlng": [
+    15.41666666,
+    -61.33333333
+   ],
+   "fame": 136,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Dominica",
+    "hu": "https://hu.wikipedia.org/wiki/Dominikai_K%C3%B6z%C3%B6ss%C3%A9g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 65871,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 751,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 653992593,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 87.71,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 9928,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "DO",
+   "iso3": "DOM",
+   "name": {
+    "en": "Dominican Republic",
+    "hu": "Dominikai Köztársaság"
+   },
+   "continent": "north-america",
+   "latlng": [
+    19,
+    -70.66666666
+   ],
+   "fame": 181,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Dominican_Republic",
+    "hu": "https://hu.wikipedia.org/wiki/Dominikai_K%C3%B6zt%C3%A1rsas%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 11520487,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 48671,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 121444279314,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 237,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 10542,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "DZ",
+   "iso3": "DZA",
+   "name": {
+    "en": "Algeria",
+    "hu": "Algéria"
+   },
+   "continent": "africa",
+   "latlng": [
+    28,
+    3
+   ],
+   "fame": 191,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Algeria",
+    "hu": "https://hu.wikipedia.org/wiki/Alg%C3%A9ria"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 47435312,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 2381741,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 239899491128,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 19.92,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 5057,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "EC",
+   "iso3": "ECU",
+   "name": {
+    "en": "Ecuador",
+    "hu": "Ecuador"
+   },
+   "continent": "south-america",
+   "latlng": [
+    -2,
+    -77.5
+   ],
+   "fame": 183,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Ecuador",
+    "hu": "https://hu.wikipedia.org/wiki/Ecuador"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 18289896,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 276841,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 118844826000,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 66.07,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 6498,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "EE",
+   "iso3": "EST",
+   "name": {
+    "en": "Estonia",
+    "hu": "Észtország"
+   },
+   "continent": "europe",
+   "latlng": [
+    59,
+    26
+   ],
+   "fame": 167,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Estonia",
+    "hu": "https://hu.wikipedia.org/wiki/%C3%89sztorsz%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 1366475,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 45227,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 40744848828,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 30.21,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 29817,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "EG",
+   "iso3": "EGY",
+   "name": {
+    "en": "Egypt",
+    "hu": "Egyiptom"
+   },
+   "continent": "africa",
+   "latlng": [
+    27,
+    30
+   ],
+   "fame": 197,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Egypt",
+    "hu": "https://hu.wikipedia.org/wiki/Egyiptom"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 118365995,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 1002450,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 395926075163,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 118,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 3345,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "ER",
+   "iso3": "ERI",
+   "name": {
+    "en": "Eritrea",
+    "hu": "Eritrea"
+   },
+   "continent": "africa",
+   "latlng": [
+    15,
+    39
+   ],
+   "fame": 159,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Eritrea",
+    "hu": "https://hu.wikipedia.org/wiki/Eritrea"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 3607003,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 117600,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2011,
+     "value": 2065001626,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 30.67,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 572,
+     "year": 2011,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "ES",
+   "iso3": "ESP",
+   "name": {
+    "en": "Spain",
+    "hu": "Spanyolország"
+   },
+   "continent": "europe",
+   "latlng": [
+    40,
+    -4
+   ],
+   "fame": 199,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Spain",
+    "hu": "https://hu.wikipedia.org/wiki/Spanyolorsz%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 49355143,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 505992,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 1580694712516,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 97.54,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 32027,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "ET",
+   "iso3": "ETH",
+   "name": {
+    "en": "Ethiopia",
+    "hu": "Etiópia"
+   },
+   "continent": "africa",
+   "latlng": [
+    8,
+    38
+   ],
+   "fame": 193,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Ethiopia",
+    "hu": "https://hu.wikipedia.org/wiki/Eti%C3%B3pia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 135472051,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 1104300,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 163697927594,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 123,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1208,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "FI",
+   "iso3": "FIN",
+   "name": {
+    "en": "Finland",
+    "hu": "Finnország"
+   },
+   "continent": "europe",
+   "latlng": [
+    64,
+    26
+   ],
+   "fame": 182,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Finland",
+    "hu": "https://hu.wikipedia.org/wiki/Finnorsz%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 5646436,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 338424,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 300187202696,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 16.68,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 53164,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "FJ",
+   "iso3": "FJI",
+   "name": {
+    "en": "Fiji",
+    "hu": "Fidzsi-szigetek"
+   },
+   "continent": "oceania",
+   "latlng": [
+    -18,
+    175
+   ],
+   "fame": 157,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Fiji",
+    "hu": "https://hu.wikipedia.org/wiki/Fidzsi-szigetek"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 933154,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 18272,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 5494797541,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 51.07,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 5888,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "FM",
+   "iso3": "FSM",
+   "name": {
+    "en": "Micronesia",
+    "hu": "Mikronéziai Szövetségi Államok"
+   },
+   "continent": "oceania",
+   "latlng": [
+    6.91666666,
+    158.25
+   ],
+   "fame": 137,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Micronesia",
+    "hu": "https://hu.wikipedia.org/wiki/Mikron%C3%A9ziai_Sz%C3%B6vets%C3%A9gi_%C3%81llamok"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 113683,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 702,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 460000000,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 162,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 4046,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "FR",
+   "iso3": "FRA",
+   "name": {
+    "en": "France",
+    "hu": "Franciaország"
+   },
+   "continent": "europe",
+   "latlng": [
+    46,
+    2
+   ],
+   "fame": 203,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/France",
+    "hu": "https://hu.wikipedia.org/wiki/Franciaorsz%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 68720337,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 551695,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 3030904089608,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 125,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 44105,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "GA",
+   "iso3": "GAB",
+   "name": {
+    "en": "Gabon",
+    "hu": "Gabon"
+   },
+   "continent": "africa",
+   "latlng": [
+    -1,
+    11.75
+   ],
+   "fame": 167,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Gabon",
+    "hu": "https://hu.wikipedia.org/wiki/Gabon"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 2593130,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 267668,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 20516134389,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 9.69,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 7912,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "GB",
+   "iso3": "GBR",
+   "name": {
+    "en": "United Kingdom",
+    "hu": "Egyesült Királyság"
+   },
+   "continent": "europe",
+   "latlng": [
+    54,
+    -2
+   ],
+   "fame": 204,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/United_Kingdom",
+    "hu": "https://hu.wikipedia.org/wiki/Egyes%C3%BClt_Kir%C3%A1lys%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 69487000,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 242900,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 3340032380668,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 286,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 48067,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "GD",
+   "iso3": "GRD",
+   "name": {
+    "en": "Grenada",
+    "hu": "Grenada"
+   },
+   "continent": "north-america",
+   "latlng": [
+    12.11666666,
+    -61.66666666
+   ],
+   "fame": 142,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Grenada",
+    "hu": "https://hu.wikipedia.org/wiki/Grenada"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 117303,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 344,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 1320334236,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 341,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 11256,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "GE",
+   "iso3": "GEO",
+   "name": {
+    "en": "Georgia",
+    "hu": "Grúzia"
+   },
+   "continent": "asia",
+   "latlng": [
+    42,
+    43.5
+   ],
+   "fame": 171,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Georgia",
+    "hu": "https://hu.wikipedia.org/wiki/Gr%C3%BAzia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 3935766,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 69700,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 30535530479,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 56.47,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 7758,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "GH",
+   "iso3": "GHA",
+   "name": {
+    "en": "Ghana",
+    "hu": "Ghána"
+   },
+   "continent": "africa",
+   "latlng": [
+    8,
+    -2
+   ],
+   "fame": 184,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Ghana",
+    "hu": "https://hu.wikipedia.org/wiki/Gh%C3%A1na"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 35064272,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 238533,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 76370394412,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 147,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 2178,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "GM",
+   "iso3": "GMB",
+   "name": {
+    "en": "Gambia",
+    "hu": "Gambia"
+   },
+   "continent": "africa",
+   "latlng": [
+    13.46666666,
+    -16.56666666
+   ],
+   "fame": 158,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Gambia",
+    "hu": "https://hu.wikipedia.org/wiki/Gambia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 2822093,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 10689,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 2339904157,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 264,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 829,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "GN",
+   "iso3": "GIN",
+   "name": {
+    "en": "Guinea",
+    "hu": "Guinea"
+   },
+   "continent": "africa",
+   "latlng": [
+    11,
+    -10
+   ],
+   "fame": 176,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Guinea",
+    "hu": "https://hu.wikipedia.org/wiki/Guinea"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 15099727,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 245857,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 23612295818,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 61.42,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1564,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "GQ",
+   "iso3": "GNQ",
+   "name": {
+    "en": "Equatorial Guinea",
+    "hu": "Egyenlítői-Guinea"
+   },
+   "continent": "africa",
+   "latlng": [
+    2,
+    10
+   ],
+   "fame": 164,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Equatorial_Guinea",
+    "hu": "https://hu.wikipedia.org/wiki/Egyenl%C3%ADt%C5%91i-Guinea"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 1938431,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 28051,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 12116922539,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 69.1,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 6251,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "GR",
+   "iso3": "GRC",
+   "name": {
+    "en": "Greece",
+    "hu": "Görögország"
+   },
+   "continent": "europe",
+   "latlng": [
+    39,
+    22
+   ],
+   "fame": 184,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Greece",
+    "hu": "https://hu.wikipedia.org/wiki/G%C3%B6r%C3%B6gorsz%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 10413962,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 131990,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 238206312633,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 78.9,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 22874,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "GT",
+   "iso3": "GTM",
+   "name": {
+    "en": "Guatemala",
+    "hu": "Guatemala"
+   },
+   "continent": "north-america",
+   "latlng": [
+    15.5,
+    -90.25
+   ],
+   "fame": 183,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Guatemala",
+    "hu": "https://hu.wikipedia.org/wiki/Guatemala"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 18687881,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 108889,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 102050473864,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 172,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 5461,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "GW",
+   "iso3": "GNB",
+   "name": {
+    "en": "Guinea-Bissau",
+    "hu": "Bissau-Guinea"
+   },
+   "continent": "africa",
+   "latlng": [
+    12,
+    -15
+   ],
+   "fame": 156,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Guinea-Bissau",
+    "hu": "https://hu.wikipedia.org/wiki/Bissau-Guinea"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 2249515,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 36125,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 1966461400,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 62.27,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 874,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "GY",
+   "iso3": "GUY",
+   "name": {
+    "en": "Guyana",
+    "hu": "Guyana"
+   },
+   "continent": "south-america",
+   "latlng": [
+    5,
+    -59
+   ],
+   "fame": 161,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Guyana",
+    "hu": "https://hu.wikipedia.org/wiki/Guyana"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 835986,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 214969,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 16786302158,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 3.89,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 20080,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "HN",
+   "iso3": "HND",
+   "name": {
+    "en": "Honduras",
+    "hu": "Honduras"
+   },
+   "continent": "north-america",
+   "latlng": [
+    15,
+    -86.5
+   ],
+   "fame": 176,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Honduras",
+    "hu": "https://hu.wikipedia.org/wiki/Honduras"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 11005850,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 112492,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 34400509852,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 97.84,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 3126,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "HR",
+   "iso3": "HRV",
+   "name": {
+    "en": "Croatia",
+    "hu": "Horvátország"
+   },
+   "continent": "europe",
+   "latlng": [
+    45.16666666,
+    15.5
+   ],
+   "fame": 175,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Croatia",
+    "hu": "https://hu.wikipedia.org/wiki/Horv%C3%A1torsz%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 3876200,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 56594,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 82688842717,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 68.49,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 21332,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "HT",
+   "iso3": "HTI",
+   "name": {
+    "en": "Haiti",
+    "hu": "Haiti"
+   },
+   "continent": "north-america",
+   "latlng": [
+    19,
+    -72.41666666
+   ],
+   "fame": 174,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Haiti",
+    "hu": "https://hu.wikipedia.org/wiki/Haiti"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 11906095,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 27750,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 19850829758,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 429,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1667,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "HU",
+   "iso3": "HUN",
+   "name": {
+    "en": "Hungary",
+    "hu": "Magyarország"
+   },
+   "continent": "europe",
+   "latlng": [
+    47,
+    20
+   ],
+   "fame": 183,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Hungary",
+    "hu": "https://hu.wikipedia.org/wiki/Magyarorsz%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 9514251,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 93028,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 212388906459,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 102,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 22323,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "ID",
+   "iso3": "IDN",
+   "name": {
+    "en": "Indonesia",
+    "hu": "Indonézia"
+   },
+   "continent": "asia",
+   "latlng": [
+    -5,
+    120
+   ],
+   "fame": 206,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Indonesia",
+    "hu": "https://hu.wikipedia.org/wiki/Indon%C3%A9zia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 285721236,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 1904569,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 1371171152331,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 150,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 4799,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "IE",
+   "iso3": "IRL",
+   "name": {
+    "en": "Ireland",
+    "hu": "Írország"
+   },
+   "continent": "europe",
+   "latlng": [
+    53,
+    -8
+   ],
+   "fame": 185,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Ireland",
+    "hu": "https://hu.wikipedia.org/wiki/%C3%8Drorsz%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 5484367,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 70273,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 545629450404,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 78.04,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 99488,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "IL",
+   "iso3": "ISR",
+   "name": {
+    "en": "Israel",
+    "hu": "Izrael"
+   },
+   "continent": "asia",
+   "latlng": [
+    31.47,
+    35.13
+   ],
+   "fame": 187,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Israel",
+    "hu": "https://hu.wikipedia.org/wiki/Izrael"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 10122800,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 20770,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 509901495702,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 487,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 50372,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "IN",
+   "iso3": "IND",
+   "name": {
+    "en": "India",
+    "hu": "India"
+   },
+   "continent": "asia",
+   "latlng": [
+    20,
+    77
+   ],
+   "fame": 217,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/India",
+    "hu": "https://hu.wikipedia.org/wiki/India"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 1463865525,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 3287590,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 3549918918778,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 445,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 2425,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "IQ",
+   "iso3": "IRQ",
+   "name": {
+    "en": "Iraq",
+    "hu": "Irak"
+   },
+   "continent": "asia",
+   "latlng": [
+    33,
+    44
+   ],
+   "fame": 191,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Iraq",
+    "hu": "https://hu.wikipedia.org/wiki/Irak"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 47020774,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 438317,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 250842782139,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 107,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 5335,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "IR",
+   "iso3": "IRN",
+   "name": {
+    "en": "Iran",
+    "hu": "Irán"
+   },
+   "continent": "asia",
+   "latlng": [
+    32,
+    53
+   ],
+   "fame": 196,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Iran",
+    "hu": "https://hu.wikipedia.org/wiki/Ir%C3%A1n"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 92417681,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 1648195,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 401504514719,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 56.07,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 4344,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "IS",
+   "iso3": "ISL",
+   "name": {
+    "en": "Iceland",
+    "hu": "Izland"
+   },
+   "continent": "europe",
+   "latlng": [
+    65,
+    -18
+   ],
+   "fame": 161,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Iceland",
+    "hu": "https://hu.wikipedia.org/wiki/Izland"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 392404,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 103000,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 31020032583,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 3.81,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 79051,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "IT",
+   "iso3": "ITA",
+   "name": {
+    "en": "Italy",
+    "hu": "Olaszország"
+   },
+   "continent": "europe",
+   "latlng": [
+    42.83333333,
+    12.83333333
+   ],
+   "fame": 201,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Italy",
+    "hu": "https://hu.wikipedia.org/wiki/Olaszorsz%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 58915656,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 301336,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 2254851212732,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 196,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 38273,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "JM",
+   "iso3": "JAM",
+   "name": {
+    "en": "Jamaica",
+    "hu": "Jamaica"
+   },
+   "continent": "north-america",
+   "latlng": [
+    18.25,
+    -77.5
+   ],
+   "fame": 167,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Jamaica",
+    "hu": "https://hu.wikipedia.org/wiki/Jamaica"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 2837077,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 10991,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 19423355367,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 258,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 6846,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "JO",
+   "iso3": "JOR",
+   "name": {
+    "en": "Jordan",
+    "hu": "Jordánia"
+   },
+   "continent": "asia",
+   "latlng": [
+    31,
+    36
+   ],
+   "fame": 178,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Jordan",
+    "hu": "https://hu.wikipedia.org/wiki/Jord%C3%A1nia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 11520684,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 89342,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 50813642349,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 129,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 4411,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "JP",
+   "iso3": "JPN",
+   "name": {
+    "en": "Japan",
+    "hu": "Japán"
+   },
+   "continent": "asia",
+   "latlng": [
+    36,
+    138
+   ],
+   "fame": 207,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Japan",
+    "hu": "https://hu.wikipedia.org/wiki/Jap%C3%A1n"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 123366734,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 377930,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 4212945159781,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 326,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 34150,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "KE",
+   "iso3": "KEN",
+   "name": {
+    "en": "Kenya",
+    "hu": "Kenya"
+   },
+   "continent": "africa",
+   "latlng": [
+    1,
+    38
+   ],
+   "fame": 188,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Kenya",
+    "hu": "https://hu.wikipedia.org/wiki/Kenya"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 57532493,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 580367,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 107440575838,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 99.13,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1867,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "KG",
+   "iso3": "KGZ",
+   "name": {
+    "en": "Kyrgyzstan",
+    "hu": "Kirgizisztán"
+   },
+   "continent": "asia",
+   "latlng": [
+    41,
+    75
+   ],
+   "fame": 170,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+    "hu": "https://hu.wikipedia.org/wiki/Kirgiziszt%C3%A1n"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 7343064,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 199951,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 13987627909,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 36.72,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1905,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "KH",
+   "iso3": "KHM",
+   "name": {
+    "en": "Cambodia",
+    "hu": "Kambodzsa"
+   },
+   "continent": "asia",
+   "latlng": [
+    13,
+    105
+   ],
+   "fame": 178,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Cambodia",
+    "hu": "https://hu.wikipedia.org/wiki/Kambodzsa"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 17847982,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 181035,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 31772759999,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 98.59,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1780,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "KI",
+   "iso3": "KIR",
+   "name": {
+    "en": "Kiribati",
+    "hu": "Kiribati"
+   },
+   "continent": "oceania",
+   "latlng": [
+    1.41666666,
+    173
+   ],
+   "fame": 136,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Kiribati",
+    "hu": "https://hu.wikipedia.org/wiki/Kiribati"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 136488,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 811,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 279034355,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 168,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 2044,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "KM",
+   "iso3": "COM",
+   "name": {
+    "en": "Comoros",
+    "hu": "Comore-szigetek"
+   },
+   "continent": "africa",
+   "latlng": [
+    -12.16666666,
+    44.25
+   ],
+   "fame": 151,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Comoros",
+    "hu": "https://hu.wikipedia.org/wiki/Comore-szigetek"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 882847,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 1862,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 1352380972,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 474,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1532,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "KN",
+   "iso3": "KNA",
+   "name": {
+    "en": "Saint Kitts and Nevis",
+    "hu": "Saint Kitts és Nevis"
+   },
+   "continent": "north-america",
+   "latlng": [
+    17.33333333,
+    -62.75
+   ],
+   "fame": 137,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
+    "hu": "https://hu.wikipedia.org/wiki/Saint_Kitts_%C3%A9s_Nevis"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 46922,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 261,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 1077033111,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 180,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 22954,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "KP",
+   "iso3": "PRK",
+   "name": {
+    "en": "North Korea",
+    "hu": "Észak-Korea"
+   },
+   "continent": "asia",
+   "latlng": [
+    40,
+    127
+   ],
+   "fame": 154,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/North_Korea",
+    "hu": "https://hu.wikipedia.org/wiki/%C3%89szak-Korea"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 26571036,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 120538,
+     "source": "mledoze"
+    },
+    "density": {
+     "value": 220,
+     "year": 2025,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "KR",
+   "iso3": "KOR",
+   "name": {
+    "en": "South Korea",
+    "hu": "Dél-Korea"
+   },
+   "continent": "asia",
+   "latlng": [
+    37,
+    127.5
+   ],
+   "fame": 199,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/South_Korea",
+    "hu": "https://hu.wikipedia.org/wiki/D%C3%A9l-Korea"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 51684564,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 100210,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 1712792854202,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 516,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 33139,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "KW",
+   "iso3": "KWT",
+   "name": {
+    "en": "Kuwait",
+    "hu": "Kuvait"
+   },
+   "continent": "asia",
+   "latlng": [
+    29.5,
+    45.75
+   ],
+   "fame": 179,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Kuwait",
+    "hu": "https://hu.wikipedia.org/wiki/Kuvait"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 4865298,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 17818,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 161772221951,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 273,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 33250,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "KZ",
+   "iso3": "KAZ",
+   "name": {
+    "en": "Kazakhstan",
+    "hu": "Kazahsztán"
+   },
+   "continent": "asia",
+   "latlng": [
+    48,
+    68
+   ],
+   "fame": 187,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Kazakhstan",
+    "hu": "https://hu.wikipedia.org/wiki/Kazahszt%C3%A1n"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 20843754,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 2724900,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 261421121086,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 7.65,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 12542,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "LA",
+   "iso3": "LAO",
+   "name": {
+    "en": "Laos",
+    "hu": "Laosz"
+   },
+   "continent": "asia",
+   "latlng": [
+    18,
+    105
+   ],
+   "fame": 171,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Laos",
+    "hu": "https://hu.wikipedia.org/wiki/Laosz"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 7873046,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 236800,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 15843155731,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 33.25,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 2012,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "LB",
+   "iso3": "LBN",
+   "name": {
+    "en": "Lebanon",
+    "hu": "Libanon"
+   },
+   "continent": "asia",
+   "latlng": [
+    33.83333333,
+    35.83333333
+   ],
+   "fame": 171,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Lebanon",
+    "hu": "https://hu.wikipedia.org/wiki/Libanon"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 5849421,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 10452,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2022,
+     "value": 20992421949,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 560,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 3589,
+     "year": 2022,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "LC",
+   "iso3": "LCA",
+   "name": {
+    "en": "Saint Lucia",
+    "hu": "Saint Lucia"
+   },
+   "continent": "north-america",
+   "latlng": [
+    13.88333333,
+    -60.96666666
+   ],
+   "fame": 147,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Saint_Lucia",
+    "hu": "https://hu.wikipedia.org/wiki/Saint_Lucia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 180149,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 616,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 2519925939,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 292,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 13988,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "LI",
+   "iso3": "LIE",
+   "name": {
+    "en": "Liechtenstein",
+    "hu": "Liechtenstein"
+   },
+   "continent": "europe",
+   "latlng": [
+    47.26666666,
+    9.53333333
+   ],
+   "fame": 145,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Liechtenstein",
+    "hu": "https://hu.wikipedia.org/wiki/Liechtenstein"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 41024,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 160,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2022,
+     "value": 7364654515,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 256,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 179521,
+     "year": 2022,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "LK",
+   "iso3": "LKA",
+   "name": {
+    "en": "Sri Lanka",
+    "hu": "Srí Lanka"
+   },
+   "continent": "asia",
+   "latlng": [
+    7,
+    81
+   ],
+   "fame": 183,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Sri_Lanka",
+    "hu": "https://hu.wikipedia.org/wiki/Sr%C3%AD_Lanka"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 21756000,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 65610,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 84356860421,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 332,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 3877,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "LR",
+   "iso3": "LBR",
+   "name": {
+    "en": "Liberia",
+    "hu": "Libéria"
+   },
+   "continent": "africa",
+   "latlng": [
+    6.5,
+    -9.5
+   ],
+   "fame": 164,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Liberia",
+    "hu": "https://hu.wikipedia.org/wiki/Lib%C3%A9ria"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 5731206,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 111369,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 4332000000,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 51.46,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 756,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "LS",
+   "iso3": "LSO",
+   "name": {
+    "en": "Lesotho",
+    "hu": "Lesotho"
+   },
+   "continent": "africa",
+   "latlng": [
+    -29.5,
+    28.5
+   ],
+   "fame": 157,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Lesotho",
+    "hu": "https://hu.wikipedia.org/wiki/Lesotho"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 2363325,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 30355,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 2046039024,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 77.86,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 866,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "LT",
+   "iso3": "LTU",
+   "name": {
+    "en": "Lithuania",
+    "hu": "Litvánia"
+   },
+   "continent": "europe",
+   "latlng": [
+    56,
+    24
+   ],
+   "fame": 174,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Lithuania",
+    "hu": "https://hu.wikipedia.org/wiki/Litv%C3%A1nia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 2888774,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 65300,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 77836396963,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 44.24,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 26944,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "LU",
+   "iso3": "LUX",
+   "name": {
+    "en": "Luxembourg",
+    "hu": "Luxemburg"
+   },
+   "continent": "europe",
+   "latlng": [
+    49.75,
+    6.16666666
+   ],
+   "fame": 168,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Luxembourg",
+    "hu": "https://hu.wikipedia.org/wiki/Luxemburg"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 686970,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 2586,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 85755006124,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 266,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 124831,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "LV",
+   "iso3": "LVA",
+   "name": {
+    "en": "Latvia",
+    "hu": "Lettország"
+   },
+   "continent": "europe",
+   "latlng": [
+    57,
+    25
+   ],
+   "fame": 169,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Latvia",
+    "hu": "https://hu.wikipedia.org/wiki/Lettorsz%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 1847785,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 64559,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 43627078481,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 28.62,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 23610,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "LY",
+   "iso3": "LBY",
+   "name": {
+    "en": "Libya",
+    "hu": "Líbia"
+   },
+   "continent": "africa",
+   "latlng": [
+    25,
+    17
+   ],
+   "fame": 176,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Libya",
+    "hu": "https://hu.wikipedia.org/wiki/L%C3%ADbia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 7458555,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 1759540,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 50491722446,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 4.24,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 6770,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "MA",
+   "iso3": "MAR",
+   "name": {
+    "en": "Morocco",
+    "hu": "Marokkó"
+   },
+   "continent": "africa",
+   "latlng": [
+    32,
+    -5
+   ],
+   "fame": 187,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Morocco",
+    "hu": "https://hu.wikipedia.org/wiki/Marokk%C3%B3"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 38430770,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 446550,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 141109373209,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 86.06,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 3672,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "MC",
+   "iso3": "MCO",
+   "name": {
+    "en": "Monaco",
+    "hu": "Monaco"
+   },
+   "continent": "europe",
+   "latlng": [
+    43.73333333,
+    7.4
+   ],
+   "fame": 145,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Monaco",
+    "hu": "https://hu.wikipedia.org/wiki/Monaco"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 38341,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 2.02,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2022,
+     "value": 8784002932,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 18981,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 229102,
+     "year": 2022,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "MD",
+   "iso3": "MDA",
+   "name": {
+    "en": "Moldova",
+    "hu": "Moldova"
+   },
+   "continent": "europe",
+   "latlng": [
+    47,
+    29
+   ],
+   "fame": 166,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Moldova",
+    "hu": "https://hu.wikipedia.org/wiki/Moldova"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 2360527,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 33846,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 16539436547,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 69.74,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 7007,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "ME",
+   "iso3": "MNE",
+   "name": {
+    "en": "Montenegro",
+    "hu": "Montenegró"
+   },
+   "continent": "europe",
+   "latlng": [
+    42.5,
+    19.3
+   ],
+   "fame": 157,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Montenegro",
+    "hu": "https://hu.wikipedia.org/wiki/Montenegr%C3%B3"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 623129,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 13812,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 7404541965,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 45.12,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 11883,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "MG",
+   "iso3": "MDG",
+   "name": {
+    "en": "Madagascar",
+    "hu": "Madagaszkár"
+   },
+   "continent": "africa",
+   "latlng": [
+    -20,
+    47
+   ],
+   "fame": 177,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Madagascar",
+    "hu": "https://hu.wikipedia.org/wiki/Madagaszk%C3%A1r"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 32740678,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 587041,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 16031702915,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 55.77,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 490,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "MH",
+   "iso3": "MHL",
+   "name": {
+    "en": "Marshall Islands",
+    "hu": "Marshall-szigetek"
+   },
+   "continent": "oceania",
+   "latlng": [
+    9,
+    168
+   ],
+   "fame": 130,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Marshall_Islands",
+    "hu": "https://hu.wikipedia.org/wiki/Marshall-szigetek"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 36282,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 181,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 284000000,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 200,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 7828,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "MK",
+   "iso3": "MKD",
+   "name": {
+    "en": "North Macedonia",
+    "hu": "Észak-Macedónia"
+   },
+   "continent": "europe",
+   "latlng": [
+    41.83333333,
+    22
+   ],
+   "fame": 164,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/North_Macedonia",
+    "hu": "https://hu.wikipedia.org/wiki/%C3%89szak-Maced%C3%B3nia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 1820909,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 25713,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 14761237042,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 70.82,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 8107,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "ML",
+   "iso3": "MLI",
+   "name": {
+    "en": "Mali",
+    "hu": "Mali"
+   },
+   "continent": "africa",
+   "latlng": [
+    17,
+    -4
+   ],
+   "fame": 177,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Mali",
+    "hu": "https://hu.wikipedia.org/wiki/Mali"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 25198821,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 1240192,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 20904898296,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 20.32,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 830,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "MM",
+   "iso3": "MMR",
+   "name": {
+    "en": "Myanmar",
+    "hu": "Mianmar"
+   },
+   "continent": "asia",
+   "latlng": [
+    22,
+    98
+   ],
+   "fame": 186,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Myanmar",
+    "hu": "https://hu.wikipedia.org/wiki/Mianmar"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 54850648,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 676578,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 64815031669,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 81.07,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1182,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "MN",
+   "iso3": "MNG",
+   "name": {
+    "en": "Mongolia",
+    "hu": "Mongólia"
+   },
+   "continent": "asia",
+   "latlng": [
+    46,
+    105
+   ],
+   "fame": 169,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Mongolia",
+    "hu": "https://hu.wikipedia.org/wiki/Mong%C3%B3lia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 3568978,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 1564110,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 19872180370,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 2.28,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 5568,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "MR",
+   "iso3": "MRT",
+   "name": {
+    "en": "Mauritania",
+    "hu": "Mauritánia"
+   },
+   "continent": "africa",
+   "latlng": [
+    20,
+    -12
+   ],
+   "fame": 167,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Mauritania",
+    "hu": "https://hu.wikipedia.org/wiki/Maurit%C3%A1nia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 5315065,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 1030700,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 10452577063,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 5.16,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1967,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "MT",
+   "iso3": "MLT",
+   "name": {
+    "en": "Malta",
+    "hu": "Málta"
+   },
+   "continent": "europe",
+   "latlng": [
+    35.83333333,
+    14.58333333
+   ],
+   "fame": 161,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Malta",
+    "hu": "https://hu.wikipedia.org/wiki/M%C3%A1lta"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 579704,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 316,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 20956999452,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 1835,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 36151,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "MU",
+   "iso3": "MUS",
+   "name": {
+    "en": "Mauritius",
+    "hu": "Mauritius"
+   },
+   "continent": "africa",
+   "latlng": [
+    -20.28333333,
+    57.55
+   ],
+   "fame": 163,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Mauritius",
+    "hu": "https://hu.wikipedia.org/wiki/Mauritius"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 1243741,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 2040,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 14397127281,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 610,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 11576,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "MV",
+   "iso3": "MDV",
+   "name": {
+    "en": "Maldives",
+    "hu": "Maldív-szigetek"
+   },
+   "continent": "asia",
+   "latlng": [
+    3.25,
+    73
+   ],
+   "fame": 155,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Maldives",
+    "hu": "https://hu.wikipedia.org/wiki/Mald%C3%ADv-szigetek"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 529676,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 300,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 6600000000,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 1766,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 12460,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "MW",
+   "iso3": "MWI",
+   "name": {
+    "en": "Malawi",
+    "hu": "Malawi"
+   },
+   "continent": "africa",
+   "latlng": [
+    -13.5,
+    34
+   ],
+   "fame": 175,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Malawi",
+    "hu": "https://hu.wikipedia.org/wiki/Malawi"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 22216120,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 118484,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 14084341062,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 188,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 634,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "MX",
+   "iso3": "MEX",
+   "name": {
+    "en": "Mexico",
+    "hu": "Mexikó"
+   },
+   "continent": "north-america",
+   "latlng": [
+    23,
+    -102
+   ],
+   "fame": 204,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Mexico",
+    "hu": "https://hu.wikipedia.org/wiki/Mexik%C3%B3"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 131946900,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 1964375,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 1788886821047,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 67.17,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 13558,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "MY",
+   "iso3": "MYS",
+   "name": {
+    "en": "Malaysia",
+    "hu": "Malajzia"
+   },
+   "continent": "asia",
+   "latlng": [
+    2.5,
+    112.5
+   ],
+   "fame": 192,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Malaysia",
+    "hu": "https://hu.wikipedia.org/wiki/Malajzia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 35977838,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 330803,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 399648828547,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 109,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 11108,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "MZ",
+   "iso3": "MOZ",
+   "name": {
+    "en": "Mozambique",
+    "hu": "Mozambik"
+   },
+   "continent": "africa",
+   "latlng": [
+    -18.25,
+    35
+   ],
+   "fame": 179,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Mozambique",
+    "hu": "https://hu.wikipedia.org/wiki/Mozambik"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 35631653,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 801590,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 20624597847,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 44.45,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 579,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "NA",
+   "iso3": "NAM",
+   "name": {
+    "en": "Namibia",
+    "hu": "Namíbia"
+   },
+   "continent": "africa",
+   "latlng": [
+    -22,
+    17
+   ],
+   "fame": 166,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Namibia",
+    "hu": "https://hu.wikipedia.org/wiki/Nam%C3%ADbia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 3092816,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 825615,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 12351024844,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 3.75,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 3993,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "NE",
+   "iso3": "NER",
+   "name": {
+    "en": "Niger",
+    "hu": "Niger"
+   },
+   "continent": "africa",
+   "latlng": [
+    16,
+    8
+   ],
+   "fame": 177,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Niger",
+    "hu": "https://hu.wikipedia.org/wiki/Niger"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 27917831,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 1267000,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 16819170421,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 22.03,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 602,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "NG",
+   "iso3": "NGA",
+   "name": {
+    "en": "Nigeria",
+    "hu": "Nigéria"
+   },
+   "continent": "africa",
+   "latlng": [
+    10,
+    8
+   ],
+   "fame": 199,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Nigeria",
+    "hu": "https://hu.wikipedia.org/wiki/Nig%C3%A9ria"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 237527782,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 923768,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 362814951696,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 257,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1527,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "NI",
+   "iso3": "NIC",
+   "name": {
+    "en": "Nicaragua",
+    "hu": "Nicaragua"
+   },
+   "continent": "north-america",
+   "latlng": [
+    13,
+    -85
+   ],
+   "fame": 171,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Nicaragua",
+    "hu": "https://hu.wikipedia.org/wiki/Nicaragua"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 7007502,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 130373,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 17829215284,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 53.75,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 2544,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "NL",
+   "iso3": "NLD",
+   "name": {
+    "en": "Netherlands",
+    "hu": "Hollandia"
+   },
+   "continent": "europe",
+   "latlng": [
+    52.5,
+    5.75
+   ],
+   "fame": 193,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Netherlands",
+    "hu": "https://hu.wikipedia.org/wiki/Hollandia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 18087633,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 41850,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 1118124749886,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 432,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 61817,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "NO",
+   "iso3": "NOR",
+   "name": {
+    "en": "Norway",
+    "hu": "Norvégia"
+   },
+   "continent": "europe",
+   "latlng": [
+    62,
+    10
+   ],
+   "fame": 184,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Norway",
+    "hu": "https://hu.wikipedia.org/wiki/Norv%C3%A9gia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 5610870,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 323802,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 485513316504,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 17.33,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 86531,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "NP",
+   "iso3": "NPL",
+   "name": {
+    "en": "Nepal",
+    "hu": "Nepál"
+   },
+   "continent": "asia",
+   "latlng": [
+    28,
+    84
+   ],
+   "fame": 181,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Nepal",
+    "hu": "https://hu.wikipedia.org/wiki/Nep%C3%A1l"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 29618118,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 147181,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 40908073367,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 201,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1381,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "NR",
+   "iso3": "NRU",
+   "name": {
+    "en": "Nauru",
+    "hu": "Nauru"
+   },
+   "continent": "oceania",
+   "latlng": [
+    -0.53333333,
+    166.91666666
+   ],
+   "fame": 123,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Nauru",
+    "hu": "https://hu.wikipedia.org/wiki/Nauru"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 12025,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 21,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 154127798,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 573,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 12817,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "NZ",
+   "iso3": "NZL",
+   "name": {
+    "en": "New Zealand",
+    "hu": "Új-Zéland"
+   },
+   "continent": "oceania",
+   "latlng": [
+    -41,
+    174
+   ],
+   "fame": 181,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/New_Zealand",
+    "hu": "https://hu.wikipedia.org/wiki/%C3%9Aj-Z%C3%A9land"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 5324700,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 270467,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 253465703232,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 19.69,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 47602,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "OM",
+   "iso3": "OMN",
+   "name": {
+    "en": "Oman",
+    "hu": "Omán"
+   },
+   "continent": "asia",
+   "latlng": [
+    21,
+    57
+   ],
+   "fame": 178,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Oman",
+    "hu": "https://hu.wikipedia.org/wiki/Om%C3%A1n"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 5494691,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 309500,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 108192457737,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 17.75,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 19690,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "PA",
+   "iso3": "PAN",
+   "name": {
+    "en": "Panama",
+    "hu": "Panama"
+   },
+   "continent": "north-america",
+   "latlng": [
+    9,
+    -80
+   ],
+   "fame": 176,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Panama",
+    "hu": "https://hu.wikipedia.org/wiki/Panama"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 4571189,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 75417,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 83382400000,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 60.61,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 18241,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "PE",
+   "iso3": "PER",
+   "name": {
+    "en": "Peru",
+    "hu": "Peru"
+   },
+   "continent": "south-america",
+   "latlng": [
+    -10,
+    -76
+   ],
+   "fame": 190,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Peru",
+    "hu": "https://hu.wikipedia.org/wiki/Peru"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 34576665,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 1285216,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 267603248655,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 26.9,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 7739,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "PG",
+   "iso3": "PNG",
+   "name": {
+    "en": "Papua New Guinea",
+    "hu": "Pápua Új-Guinea"
+   },
+   "continent": "oceania",
+   "latlng": [
+    -6,
+    147
+   ],
+   "fame": 175,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
+    "hu": "https://hu.wikipedia.org/wiki/P%C3%A1pua_%C3%9Aj-Guinea"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 10762817,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 462840,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 30932496250,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 23.25,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 2874,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "PH",
+   "iso3": "PHL",
+   "name": {
+    "en": "Philippines",
+    "hu": "Fülöp-szigetek"
+   },
+   "continent": "asia",
+   "latlng": [
+    13,
+    122
+   ],
+   "fame": 197,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Philippines",
+    "hu": "https://hu.wikipedia.org/wiki/F%C3%BCl%C3%B6p-szigetek"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 116786962,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 342353,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 437146372730,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 341,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 3743,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "PK",
+   "iso3": "PAK",
+   "name": {
+    "en": "Pakistan",
+    "hu": "Pakisztán"
+   },
+   "continent": "asia",
+   "latlng": [
+    30,
+    70
+   ],
+   "fame": 199,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Pakistan",
+    "hu": "https://hu.wikipedia.org/wiki/Pakiszt%C3%A1n"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 255219554,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 881912,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 338368455318,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 289,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1326,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "PL",
+   "iso3": "POL",
+   "name": {
+    "en": "Poland",
+    "hu": "Lengyelország"
+   },
+   "continent": "europe",
+   "latlng": [
+    52,
+    20
+   ],
+   "fame": 195,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Poland",
+    "hu": "https://hu.wikipedia.org/wiki/Lengyelorsz%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 36435861,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 312679,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 811229100688,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 117,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 22265,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "PS",
+   "iso3": "PSE",
+   "name": {
+    "en": "Palestine",
+    "hu": "Palesztina"
+   },
+   "continent": "asia",
+   "latlng": [
+    31.9,
+    35.2
+   ],
+   "fame": 170,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Palestine",
+    "hu": "https://hu.wikipedia.org/wiki/Palesztina"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 5413596,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 6220,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 17396300000,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 870,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 3213,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "PT",
+   "iso3": "PRT",
+   "name": {
+    "en": "Portugal",
+    "hu": "Portugália"
+   },
+   "continent": "europe",
+   "latlng": [
+    39.5,
+    -8
+   ],
+   "fame": 185,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Portugal",
+    "hu": "https://hu.wikipedia.org/wiki/Portug%C3%A1lia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 10804871,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 92090,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 287080013574,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 117,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 26569,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "PW",
+   "iso3": "PLW",
+   "name": {
+    "en": "Palau",
+    "hu": "Palau"
+   },
+   "continent": "oceania",
+   "latlng": [
+    7.5,
+    134.5
+   ],
+   "fame": 127,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Palau",
+    "hu": "https://hu.wikipedia.org/wiki/Palau"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 17663,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 459,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 263020734,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 38.48,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 14891,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "PY",
+   "iso3": "PRY",
+   "name": {
+    "en": "Paraguay",
+    "hu": "Paraguay"
+   },
+   "continent": "south-america",
+   "latlng": [
+    -23,
+    -58
+   ],
+   "fame": 175,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Paraguay",
+    "hu": "https://hu.wikipedia.org/wiki/Paraguay"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 7013078,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 406752,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 42956263544,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 17.24,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 6125,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "QA",
+   "iso3": "QAT",
+   "name": {
+    "en": "Qatar",
+    "hu": "Katar"
+   },
+   "continent": "asia",
+   "latlng": [
+    25.5,
+    51.25
+   ],
+   "fame": 178,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Qatar",
+    "hu": "https://hu.wikipedia.org/wiki/Katar"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 2972215,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 11586,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2022,
+     "value": 235770403735,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 257,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 79325,
+     "year": 2022,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "RO",
+   "iso3": "ROU",
+   "name": {
+    "en": "Romania",
+    "hu": "Románia"
+   },
+   "continent": "europe",
+   "latlng": [
+    46,
+    25
+   ],
+   "fame": 188,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Romania",
+    "hu": "https://hu.wikipedia.org/wiki/Rom%C3%A1nia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 19020271,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 238391,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 351002579630,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 79.79,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 18454,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "RS",
+   "iso3": "SRB",
+   "name": {
+    "en": "Serbia",
+    "hu": "Szerbia"
+   },
+   "continent": "europe",
+   "latlng": [
+    44,
+    21
+   ],
+   "fame": 177,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Serbia",
+    "hu": "https://hu.wikipedia.org/wiki/Szerbia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 6549143,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 88361,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 75187125427,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 74.12,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 11480,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "RU",
+   "iso3": "RUS",
+   "name": {
+    "en": "Russia",
+    "hu": "Oroszország"
+   },
+   "continent": "europe",
+   "latlng": [
+    60,
+    100
+   ],
+   "fame": 205,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Russia",
+    "hu": "https://hu.wikipedia.org/wiki/Oroszorsz%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 143513328,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 17098242,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 2021421476035,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 8.39,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 14085,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "RW",
+   "iso3": "RWA",
+   "name": {
+    "en": "Rwanda",
+    "hu": "Ruanda"
+   },
+   "continent": "africa",
+   "latlng": [
+    -2,
+    30
+   ],
+   "fame": 173,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Rwanda",
+    "hu": "https://hu.wikipedia.org/wiki/Ruanda"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 14569341,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 26338,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 14097768648,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 553,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 968,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "SA",
+   "iso3": "SAU",
+   "name": {
+    "en": "Saudi Arabia",
+    "hu": "Szaúd-Arábia"
+   },
+   "continent": "asia",
+   "latlng": [
+    25,
+    45
+   ],
+   "fame": 196,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+    "hu": "https://hu.wikipedia.org/wiki/Sza%C3%BAd-Ar%C3%A1bia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 36973555,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 2149690,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 1067582933333,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 17.2,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 28874,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "SB",
+   "iso3": "SLB",
+   "name": {
+    "en": "Solomon Islands",
+    "hu": "Salamon-szigetek"
+   },
+   "continent": "oceania",
+   "latlng": [
+    -8,
+    159
+   ],
+   "fame": 151,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Solomon_Islands",
+    "hu": "https://hu.wikipedia.org/wiki/Salamon-szigetek"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 838645,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 28896,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 1631286701,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 29.02,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1945,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "SC",
+   "iso3": "SYC",
+   "name": {
+    "en": "Seychelles",
+    "hu": "Seychelle-szigetek"
+   },
+   "continent": "africa",
+   "latlng": [
+    -4.58333333,
+    55.66666666
+   ],
+   "fame": 144,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Seychelles",
+    "hu": "https://hu.wikipedia.org/wiki/Seychelle-szigetek"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 122730,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 452,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 2141450171,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 272,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 17448,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "SD",
+   "iso3": "SDN",
+   "name": {
+    "en": "Sudan",
+    "hu": "Szudán"
+   },
+   "continent": "africa",
+   "latlng": [
+    15,
+    30
+   ],
+   "fame": 188,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Sudan",
+    "hu": "https://hu.wikipedia.org/wiki/Szud%C3%A1n"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 51662147,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 1886068,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 109327023589,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 27.39,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 2116,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "SE",
+   "iso3": "SWE",
+   "name": {
+    "en": "Sweden",
+    "hu": "Svédország"
+   },
+   "continent": "europe",
+   "latlng": [
+    62,
+    15
+   ],
+   "fame": 188,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Sweden",
+    "hu": "https://hu.wikipedia.org/wiki/Sv%C3%A9dorsz%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 10596620,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 450295,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 593267701033,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 23.53,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 55987,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "SG",
+   "iso3": "SGP",
+   "name": {
+    "en": "Singapore",
+    "hu": "Szingapúr"
+   },
+   "continent": "asia",
+   "latlng": [
+    1.36666666,
+    103.8
+   ],
+   "fame": 185,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Singapore",
+    "hu": "https://hu.wikipedia.org/wiki/Szingap%C3%BAr"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 6111175,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 710,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 501427500080,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 8607,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 82051,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "SI",
+   "iso3": "SVN",
+   "name": {
+    "en": "Slovenia",
+    "hu": "Szlovénia"
+   },
+   "continent": "europe",
+   "latlng": [
+    46.11666666,
+    14.81666666
+   ],
+   "fame": 172,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Slovenia",
+    "hu": "https://hu.wikipedia.org/wiki/Szlov%C3%A9nia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 2130986,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 20273,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 68216781411,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 105,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 32012,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "SK",
+   "iso3": "SVK",
+   "name": {
+    "en": "Slovakia",
+    "hu": "Szlovákia"
+   },
+   "continent": "europe",
+   "latlng": [
+    48.66666666,
+    19.5
+   ],
+   "fame": 179,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Slovakia",
+    "hu": "https://hu.wikipedia.org/wiki/Szlov%C3%A1kia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 5413813,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 49037,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 132793622283,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 110,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 24529,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "SL",
+   "iso3": "SLE",
+   "name": {
+    "en": "Sierra Leone",
+    "hu": "Sierra Leone"
+   },
+   "continent": "africa",
+   "latlng": [
+    8.5,
+    -11.5
+   ],
+   "fame": 165,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Sierra_Leone",
+    "hu": "https://hu.wikipedia.org/wiki/Sierra_Leone"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 8819794,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 71740,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 3809832237,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 123,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 432,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "SM",
+   "iso3": "SMR",
+   "name": {
+    "en": "San Marino",
+    "hu": "San Marino"
+   },
+   "continent": "europe",
+   "latlng": [
+    43.76666666,
+    12.41666666
+   ],
+   "fame": 138,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/San_Marino",
+    "hu": "https://hu.wikipedia.org/wiki/San_Marino"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 34109,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 61,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2021,
+     "value": 1855382833,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 559,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 54396,
+     "year": 2021,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "SN",
+   "iso3": "SEN",
+   "name": {
+    "en": "Senegal",
+    "hu": "Szenegál"
+   },
+   "continent": "africa",
+   "latlng": [
+    14,
+    -14
+   ],
+   "fame": 178,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Senegal",
+    "hu": "https://hu.wikipedia.org/wiki/Szeneg%C3%A1l"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 18931966,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 196722,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 31013986429,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 96.24,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1638,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "SO",
+   "iso3": "SOM",
+   "name": {
+    "en": "Somalia",
+    "hu": "Szomália"
+   },
+   "continent": "africa",
+   "latlng": [
+    10,
+    49
+   ],
+   "fame": 174,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Somalia",
+    "hu": "https://hu.wikipedia.org/wiki/Szom%C3%A1lia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 19654739,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 637657,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 11679800110,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 30.82,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 594,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "SR",
+   "iso3": "SUR",
+   "name": {
+    "en": "Suriname",
+    "hu": "Suriname"
+   },
+   "continent": "south-america",
+   "latlng": [
+    4,
+    -56
+   ],
+   "fame": 154,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Suriname",
+    "hu": "https://hu.wikipedia.org/wiki/Suriname"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 639850,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 163820,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 3782437296,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 3.91,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 5911,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "SS",
+   "iso3": "SSD",
+   "name": {
+    "en": "South Sudan",
+    "hu": "Dél-Szudán"
+   },
+   "continent": "africa",
+   "latlng": [
+    7,
+    30
+   ],
+   "fame": 172,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/South_Sudan",
+    "hu": "https://hu.wikipedia.org/wiki/D%C3%A9l-Szud%C3%A1n"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 12188788,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 619745,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2015,
+     "value": 11997800760,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 19.67,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 984,
+     "year": 2015,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "ST",
+   "iso3": "STP",
+   "name": {
+    "en": "São Tomé and Príncipe",
+    "hu": "São Tomé és Príncipe"
+   },
+   "continent": "africa",
+   "latlng": [
+    1,
+    7
+   ],
+   "fame": 142,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+    "hu": "https://hu.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_%C3%A9s_Pr%C3%ADncipe"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 240254,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 964,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 603240749,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 249,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 2511,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "SV",
+   "iso3": "SLV",
+   "name": {
+    "en": "El Salvador",
+    "hu": "Salvador"
+   },
+   "continent": "north-america",
+   "latlng": [
+    13.83333333,
+    -88.91666666
+   ],
+   "fame": 173,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/El_Salvador",
+    "hu": "https://hu.wikipedia.org/wiki/Salvador"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 6365503,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 21041,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 34015620000,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 303,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 5344,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "SY",
+   "iso3": "SYR",
+   "name": {
+    "en": "Syria",
+    "hu": "Szíria"
+   },
+   "continent": "asia",
+   "latlng": [
+    35,
+    38
+   ],
+   "fame": 174,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Syria",
+    "hu": "https://hu.wikipedia.org/wiki/Sz%C3%ADria"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 25620427,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 185180,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2021,
+     "value": 8980060819,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 138,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 351,
+     "year": 2021,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "SZ",
+   "iso3": "SWZ",
+   "name": {
+    "en": "Eswatini",
+    "hu": "Szváziföld"
+   },
+   "continent": "africa",
+   "latlng": [
+    -26.5,
+    31.5
+   ],
+   "fame": 158,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Eswatini",
+    "hu": "https://hu.wikipedia.org/wiki/Szv%C3%A1zif%C3%B6ld"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 1256174,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 17364,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 4597855845,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 72.34,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 3660,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "TD",
+   "iso3": "TCD",
+   "name": {
+    "en": "Chad",
+    "hu": "Csád"
+   },
+   "continent": "africa",
+   "latlng": [
+    15,
+    19
+   ],
+   "fame": 174,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Chad",
+    "hu": "https://hu.wikipedia.org/wiki/Cs%C3%A1d"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 21003705,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 1284000,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 13149325359,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 16.36,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 626,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "TG",
+   "iso3": "TGO",
+   "name": {
+    "en": "Togo",
+    "hu": "Togo"
+   },
+   "continent": "africa",
+   "latlng": [
+    8,
+    1.16666666
+   ],
+   "fame": 169,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Togo",
+    "hu": "https://hu.wikipedia.org/wiki/Togo"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 8591626,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 56785,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 9171261835,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 151,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1067,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "TH",
+   "iso3": "THA",
+   "name": {
+    "en": "Thailand",
+    "hu": "Thaiföld"
+   },
+   "continent": "asia",
+   "latlng": [
+    15,
+    100
+   ],
+   "fame": 196,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Thailand",
+    "hu": "https://hu.wikipedia.org/wiki/Thaif%C3%B6ld"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 71619863,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 513120,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 514944993834,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 140,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 7190,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "TJ",
+   "iso3": "TJK",
+   "name": {
+    "en": "Tajikistan",
+    "hu": "Tádzsikisztán"
+   },
+   "continent": "asia",
+   "latlng": [
+    39,
+    71
+   ],
+   "fame": 171,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Tajikistan",
+    "hu": "https://hu.wikipedia.org/wiki/T%C3%A1dzsikiszt%C3%A1n"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 10786734,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 143100,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 12060602009,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 75.38,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1118,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "TL",
+   "iso3": "TLS",
+   "name": {
+    "en": "Timor-Leste",
+    "hu": "Kelet-Timor"
+   },
+   "continent": "asia",
+   "latlng": [
+    -8.83333333,
+    125.91666666
+   ],
+   "fame": 155,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Timor-Leste",
+    "hu": "https://hu.wikipedia.org/wiki/Kelet-Timor"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 1418517,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 14874,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 2243142908,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 95.37,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1581,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "TM",
+   "iso3": "TKM",
+   "name": {
+    "en": "Turkmenistan",
+    "hu": "Türkmenisztán"
+   },
+   "continent": "asia",
+   "latlng": [
+    40,
+    60
+   ],
+   "fame": 177,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Turkmenistan",
+    "hu": "https://hu.wikipedia.org/wiki/T%C3%BCrkmeniszt%C3%A1n"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 7618847,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 488100,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 59887334844,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 15.61,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 7860,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "TN",
+   "iso3": "TUN",
+   "name": {
+    "en": "Tunisia",
+    "hu": "Tunézia"
+   },
+   "continent": "africa",
+   "latlng": [
+    34,
+    9
+   ],
+   "fame": 178,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Tunisia",
+    "hu": "https://hu.wikipedia.org/wiki/Tun%C3%A9zia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 12348573,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 163610,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 48529595417,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 75.48,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 3930,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "TO",
+   "iso3": "TON",
+   "name": {
+    "en": "Tonga",
+    "hu": "Tonga"
+   },
+   "continent": "oceania",
+   "latlng": [
+    -20,
+    -175
+   ],
+   "fame": 137,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Tonga",
+    "hu": "https://hu.wikipedia.org/wiki/Tonga"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 103742,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 747,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2022,
+     "value": 500274898,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 139,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 4822,
+     "year": 2022,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "TR",
+   "iso3": "TUR",
+   "name": {
+    "en": "Türkiye",
+    "hu": "Törökország"
+   },
+   "continent": "asia",
+   "latlng": [
+    39,
+    35
+   ],
+   "fame": 200,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/T%C3%BCrkiye",
+    "hu": "https://hu.wikipedia.org/wiki/T%C3%B6r%C3%B6korsz%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 85878556,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 783562,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 1108022373260,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 110,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 12902,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "TT",
+   "iso3": "TTO",
+   "name": {
+    "en": "Trinidad and Tobago",
+    "hu": "Trinidad és Tobago"
+   },
+   "continent": "north-america",
+   "latlng": [
+    11,
+    -61
+   ],
+   "fame": 166,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
+    "hu": "https://hu.wikipedia.org/wiki/Trinidad_%C3%A9s_Tobago"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 1367764,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 5130,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 28139944790,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 267,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 20574,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "TV",
+   "iso3": "TUV",
+   "name": {
+    "en": "Tuvalu",
+    "hu": "Tuvalu"
+   },
+   "continent": "oceania",
+   "latlng": [
+    -8,
+    178
+   ],
+   "fame": 118,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Tuvalu",
+    "hu": "https://hu.wikipedia.org/wiki/Tuvalu"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 9492,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 26,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 62280312,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 365,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 6561,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "TZ",
+   "iso3": "TZA",
+   "name": {
+    "en": "Tanzania",
+    "hu": "Tádzsikisztán"
+   },
+   "continent": "africa",
+   "latlng": [
+    -6,
+    35
+   ],
+   "fame": 187,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Tanzania",
+    "hu": "https://hu.wikipedia.org/wiki/T%C3%A1dzsikiszt%C3%A1n"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 70545865,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 945087,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 79158286334,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 74.64,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1122,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "UA",
+   "iso3": "UKR",
+   "name": {
+    "en": "Ukraine",
+    "hu": "Ukrajna"
+   },
+   "continent": "europe",
+   "latlng": [
+    49,
+    32
+   ],
+   "fame": 188,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Ukraine",
+    "hu": "https://hu.wikipedia.org/wiki/Ukrajna"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 38980376,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 603500,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 178757021387,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 64.59,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 4586,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "UG",
+   "iso3": "UGA",
+   "name": {
+    "en": "Uganda",
+    "hu": "Uganda"
+   },
+   "continent": "africa",
+   "latlng": [
+    1,
+    32
+   ],
+   "fame": 184,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Uganda",
+    "hu": "https://hu.wikipedia.org/wiki/Uganda"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 51384894,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 241550,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 49272882214,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 213,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 959,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "US",
+   "iso3": "USA",
+   "name": {
+    "en": "United States",
+    "hu": "Amerikai Egyesült Államok"
+   },
+   "continent": "north-america",
+   "latlng": [
+    38,
+    -97
+   ],
+   "fame": 220,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/United_States",
+    "hu": "https://hu.wikipedia.org/wiki/Amerikai_Egyes%C3%BClt_%C3%81llamok"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 341784857,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 9372610,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 27360935000000,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 36.47,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 80053,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "UY",
+   "iso3": "URY",
+   "name": {
+    "en": "Uruguay",
+    "hu": "Uruguay"
+   },
+   "continent": "south-america",
+   "latlng": [
+    -33,
+    -56
+   ],
+   "fame": 174,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Uruguay",
+    "hu": "https://hu.wikipedia.org/wiki/Uruguay"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 3384688,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 181034,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 77240831587,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 18.7,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 22821,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "UZ",
+   "iso3": "UZB",
+   "name": {
+    "en": "Uzbekistan",
+    "hu": "Üzbegisztán"
+   },
+   "continent": "asia",
+   "latlng": [
+    41,
+    64
+   ],
+   "fame": 185,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Uzbekistan",
+    "hu": "https://hu.wikipedia.org/wiki/%C3%9Czbegiszt%C3%A1n"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 37053428,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 447400,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 90889149307,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 82.82,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 2453,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "VC",
+   "iso3": "VCT",
+   "name": {
+    "en": "Saint Vincent and the Grenadines",
+    "hu": "Saint Vincent és a Grenadine-szigetek"
+   },
+   "continent": "north-america",
+   "latlng": [
+    13.25,
+    -61.2
+   ],
+   "fame": 140,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
+    "hu": "https://hu.wikipedia.org/wiki/Saint_Vincent_%C3%A9s_a_Grenadine-szigetek"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 99924,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 389,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 1065962963,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 257,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 10668,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "VE",
+   "iso3": "VEN",
+   "name": {
+    "en": "Venezuela",
+    "hu": "Venezuela"
+   },
+   "continent": "south-america",
+   "latlng": [
+    8,
+    -66
+   ],
+   "fame": 191,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Venezuela",
+    "hu": "https://hu.wikipedia.org/wiki/Venezuela"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 28516896,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 916445,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2014,
+     "value": 482359318768,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 31.12,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 16915,
+     "year": 2014,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "VN",
+   "iso3": "VNM",
+   "name": {
+    "en": "Vietnam",
+    "hu": "Vietnám"
+   },
+   "continent": "asia",
+   "latlng": [
+    16.16666666,
+    107.83333333
+   ],
+   "fame": 196,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Vietnam",
+    "hu": "https://hu.wikipedia.org/wiki/Vietn%C3%A1m"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 101598527,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 331212,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 429716969050,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 307,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 4230,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "VU",
+   "iso3": "VUT",
+   "name": {
+    "en": "Vanuatu",
+    "hu": "Vanuatu"
+   },
+   "continent": "oceania",
+   "latlng": [
+    -16,
+    167
+   ],
+   "fame": 146,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Vanuatu",
+    "hu": "https://hu.wikipedia.org/wiki/Vanuatu"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 335169,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 12189,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 1126313359,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 27.5,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 3360,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "WS",
+   "iso3": "WSM",
+   "name": {
+    "en": "Samoa",
+    "hu": "Szamoa"
+   },
+   "continent": "oceania",
+   "latlng": [
+    -13.58333333,
+    -172.33333333
+   ],
+   "fame": 143,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Samoa",
+    "hu": "https://hu.wikipedia.org/wiki/Szamoa"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 219306,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 2842,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 934100336,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 77.17,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 4259,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "XK",
+   "iso3": "UNK",
+   "name": {
+    "en": "Kosovo",
+    "hu": "Koszovó"
+   },
+   "continent": "europe",
+   "latlng": [
+    42.666667,
+    21.166667
+   ],
+   "fame": 162,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Kosovo",
+    "hu": "https://hu.wikipedia.org/wiki/Koszov%C3%B3"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 1576876,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 10908,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 10438351483,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 145,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 6620,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "YE",
+   "iso3": "YEM",
+   "name": {
+    "en": "Yemen",
+    "hu": "Jemen"
+   },
+   "continent": "asia",
+   "latlng": [
+    15,
+    48
+   ],
+   "fame": 180,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Yemen",
+    "hu": "https://hu.wikipedia.org/wiki/Jemen"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 41773878,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 527968,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2018,
+     "value": 21606160663,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 79.12,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 517,
+     "year": 2018,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "ZA",
+   "iso3": "ZAF",
+   "name": {
+    "en": "South Africa",
+    "hu": "Dél-afrikai Köztársaság"
+   },
+   "continent": "africa",
+   "latlng": [
+    -29,
+    24
+   ],
+   "fame": 194,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/South_Africa",
+    "hu": "https://hu.wikipedia.org/wiki/D%C3%A9l-afrikai_K%C3%B6zt%C3%A1rsas%C3%A1g"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 64747319,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 1221037,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 377781600986,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 53.03,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 5835,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "ZM",
+   "iso3": "ZMB",
+   "name": {
+    "en": "Zambia",
+    "hu": "Zambia"
+   },
+   "continent": "africa",
+   "latlng": [
+    -15,
+    30
+   ],
+   "fame": 178,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Zambia",
+    "hu": "https://hu.wikipedia.org/wiki/Zambia"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 21913874,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 752612,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 28162630954,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 29.12,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1285,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  },
+  {
+   "code": "ZW",
+   "iso3": "ZWE",
+   "name": {
+    "en": "Zimbabwe",
+    "hu": "Zimbabwe"
+   },
+   "continent": "africa",
+   "latlng": [
+    -20,
+    30
+   ],
+   "fame": 177,
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Zimbabwe",
+    "hu": "https://hu.wikipedia.org/wiki/Zimbabwe"
+   },
+   "stats": {
+    "population": {
+     "year": 2025,
+     "value": 16950795,
+     "source": "worldbank-mirror"
+    },
+    "area": {
+     "value": 390757,
+     "source": "mledoze"
+    },
+    "gdp": {
+     "year": 2023,
+     "value": 26538273499,
+     "source": "worldbank-mirror"
+    },
+    "density": {
+     "value": 43.38,
+     "year": 2025,
+     "source": "derived"
+    },
+    "gdpPerCapita": {
+     "value": 1566,
+     "year": 2023,
+     "source": "derived"
+    }
+   }
+  }
+ ]
+}
