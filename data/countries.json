@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T05:45:56.620Z",
+ "generatedAt": "2026-10-24T05:53:18.468Z",
  "sources": {
   "wikidata": {
    "name": "Wikidata / Wikipedia",
@@ -1562,7 +1562,7 @@
     },
     "area": {
      "value": 9984670,
-     "source": "mledoze"
+     "source": "wikidata"
     },
     "gdp": {
      "value": 2196593836347,
@@ -2583,7 +2583,7 @@
     },
     "area": {
      "value": 48671,
-     "source": "mledoze"
+     "source": "wikidata"
     },
     "gdp": {
      "value": 120456239154,
@@ -3927,7 +3927,7 @@
     },
     "area": {
      "value": 56594,
-     "source": "mledoze"
+     "source": "wikidata"
     },
     "gdp": {
      "value": 85621337533,
@@ -5863,8 +5863,8 @@
      "source": "wikidata"
     },
     "area": {
-     "value": 2.02,
-     "source": "mledoze"
+     "value": 2.08,
+     "source": "wikidata"
     },
     "gdp": {
      "value": 10003897341,
@@ -5886,7 +5886,7 @@
      "source": "wikidata"
     },
     "density": {
-     "value": 19236,
+     "value": 18681,
      "year": 2025,
      "source": "derived"
     }
@@ -7051,8 +7051,9 @@
      "source": "wikidata"
     },
     "area": {
-     "value": 323802,
-     "source": "mledoze"
+     "value": 385207,
+     "year": 2019,
+     "source": "wikidata"
     },
     "gdp": {
      "value": 502197633323,
@@ -7074,7 +7075,7 @@
      "source": "wikidata"
     },
     "density": {
-     "value": 17.38,
+     "value": 14.61,
      "year": 2026,
      "source": "derived"
     }
