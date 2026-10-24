@@ -34,6 +34,13 @@ const SOURCES: Dataset['sources'] = {
 const TIME_SERIES = new Set<StatId>(['population', 'gdp', 'gdpPerCapita', 'lifeExpectancy']);
 /** Lower index = preferred when years tie or the stat is not a time series. */
 const PRIORITY: SourceId[] = ['wikidata', 'worldbank', 'worldbank-mirror', 'mledoze'];
+/**
+ * Which source settles a disagreement with Wikidata. Area is checked against
+ * mledoze's land area: the World Bank's "surface area" can include territorial
+ * waters (Canada 15.6 million km², Monaco 75 km²), so it is not used for area.
+ */
+const DEFAULT_REFERENCE: SourceId[] = ['worldbank', 'worldbank-mirror'];
+const REFERENCE: Partial<Record<StatId, SourceId[]>> = { area: ['mledoze'] };
 const MAX_RATIO = 1.5;
 const MAX_YEARS_DIFF = 5;
 
@@ -64,11 +71,11 @@ function pick(code: string, stat: StatId, candidates: Candidate[]): Candidate | 
     return PRIORITY.indexOf(a.source) - PRIORITY.indexOf(b.source);
   });
   const chosen = valid[0]!;
-  const reference = valid.find((c) => c.source === 'worldbank' || c.source === 'worldbank-mirror');
+  const reference = valid.find((c) => (REFERENCE[stat] ?? DEFAULT_REFERENCE).includes(c.source));
   if (chosen.source === 'wikidata' && reference && disagree(stat, chosen.value, reference.value)) {
     warnings.push(
       `${code} ${stat}: Wikidata ${chosen.value} (${chosen.year ?? '?'}) vs ` +
-        `World Bank ${reference.value} (${reference.year ?? '?'}), using World Bank`,
+        `${reference.source} ${reference.value} (${reference.year ?? '?'}), using ${reference.source}`,
     );
     return reference;
   }

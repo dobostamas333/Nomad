@@ -9,7 +9,6 @@ import { setCandidate, type SourceStats } from './types';
 
 const INDICATORS: Partial<Record<StatId, string>> = {
   population: 'SP.POP.TOTL',
-  area: 'AG.SRF.TOTL.K2',
   gdp: 'NY.GDP.MKTP.CD',
   gdpPerCapita: 'NY.GDP.PCAP.CD',
   lifeExpectancy: 'SP.DYN.LE00.IN',

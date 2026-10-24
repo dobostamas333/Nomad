@@ -41,5 +41,9 @@ describe('data/countries.json', () => {
     expect(hu.stats.area!.value).toBeGreaterThan(90_000);
     expect(hu.stats.area!.value).toBeLessThan(95_000);
     expect(byCode.get('RU')!.stats.area!.value).toBeGreaterThan(byCode.get('CA')!.stats.area!.value);
+    // Land area, not including territorial waters.
+    expect(byCode.get('CA')!.stats.area!.value).toBeLessThan(10_500_000);
+    expect(byCode.get('MC')!.stats.area!.value).toBeLessThan(3);
+    expect(byCode.get('HR')!.stats.area!.value).toBeLessThan(60_000);
   });
 });
