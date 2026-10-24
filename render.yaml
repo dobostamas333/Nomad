@@ -1,0 +1,16 @@
+# Render Blueprint: https://render.com/docs/blueprint-spec
+# One Docker web service serving both the PWA and the Socket.IO game server.
+services:
+  - type: web
+    name: nomad
+    runtime: docker
+    plan: free
+    # Closest region to Hungary, keeps the real-time rounds snappy.
+    region: frankfurt
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health
+    # Deploy every push (including the weekly dataset refresh) once GitHub checks pass.
+    autoDeployTrigger: checksPass
+    envVars:
+      - key: NODE_ENV
+        value: production

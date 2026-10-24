@@ -31,6 +31,21 @@ npm start          # http://localhost:3001 – a klienst is kiszolgálja
 # vagy: docker build -t nomad . && docker run -p 3001:3001 nomad
 ```
 
+### Deploy Renderre
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/dobostamas333/Nomad)
+
+A `render.yaml` Blueprint egy Docker alapú web service-t hoz létre (Frankfurt, ingyenes csomag), ami a klienst és a
+Socket.IO szervert is kiszolgálja. Minden push után automatikusan újratelepül, ha a GitHub ellenőrzések zöldek –
+így a heti adatfrissítés is magától kimegy.
+
+1. [dashboard.render.com](https://dashboard.render.com) → **New → Blueprint** (vagy a fenti gomb)
+2. GitHub-fiók összekötése, a `dobostamas333/Nomad` repó kiválasztása
+3. **Apply** – pár perc múlva él a `https://nomad-xxxx.onrender.com` cím
+
+Az ingyenes csomag 15 perc tétlenség után elalszik: az első betöltés ilyenkor ~1 percig tart, és a futó szobák
+egy újraindításkor elvesznek. Állandó működéshez a Starter csomag kell (`plan: starter` a `render.yaml`-ban).
+
 Ellenőrzések: `npm run typecheck`, `npm test` (unit tesztek + egy teljes kétjátékos Socket.IO meccs).
 
 ## Adatforrások
