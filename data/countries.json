@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T10:04:32.337Z",
+ "generatedAt": "2026-11-02T12:21:11.002Z",
  "sources": {
   "wikidata": {
    "name": "Wikidata / Wikipedia",
@@ -577,7 +577,7 @@
     40.5,
     47.5
    ],
-   "fame": 362,
+   "fame": 363,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Azerbaijan",
     "hu": "https://hu.wikipedia.org/wiki/Azerbajdzs%C3%A1n"
@@ -1279,7 +1279,7 @@
     24.25,
     -76
    ],
-   "fame": 280,
+   "fame": 281,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/The_Bahamas",
     "hu": "https://hu.wikipedia.org/wiki/Bahama-szigetek"
@@ -1981,7 +1981,7 @@
     35,
     105
    ],
-   "fame": 400,
+   "fame": 401,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/China",
     "hu": "https://hu.wikipedia.org/wiki/K%C3%ADna"
@@ -2521,7 +2521,7 @@
     15.41666666,
     -61.33333333
    ],
-   "fame": 265,
+   "fame": 266,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Dominica",
     "hu": "https://hu.wikipedia.org/wiki/Dominikai_K%C3%B6z%C3%B6ss%C3%A9g"
@@ -2575,7 +2575,7 @@
     19,
     -70.66666666
    ],
-   "fame": 280,
+   "fame": 281,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Dominican_Republic",
     "hu": "https://hu.wikipedia.org/wiki/Dominikai_K%C3%B6zt%C3%A1rsas%C3%A1g"
@@ -2660,7 +2660,7 @@
      "source": "worldbank"
     },
     "highestPoint": {
-     "value": 2908,
+     "value": 2918,
      "source": "wikidata"
     },
     "density": {
@@ -2683,7 +2683,7 @@
     -2,
     -77.5
    ],
-   "fame": 316,
+   "fame": 317,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Ecuador",
     "hu": "https://hu.wikipedia.org/wiki/Ecuador"
@@ -2847,7 +2847,7 @@
     15,
     39
    ],
-   "fame": 307,
+   "fame": 308,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Eritrea",
     "hu": "https://hu.wikipedia.org/wiki/Eritrea"
@@ -3064,7 +3064,7 @@
     -18,
     175
    ],
-   "fame": 280,
+   "fame": 281,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Fiji",
     "hu": "https://hu.wikipedia.org/wiki/Fidzsi-szigetek"
@@ -3118,7 +3118,7 @@
     6.91666666,
     158.25
    ],
-   "fame": 221,
+   "fame": 223,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia",
     "hu": "https://hu.wikipedia.org/wiki/Mikron%C3%A9ziai_Sz%C3%B6vets%C3%A9gi_%C3%81llamok"
@@ -3226,7 +3226,7 @@
     -1,
     11.75
    ],
-   "fame": 295,
+   "fame": 296,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Gabon",
     "hu": "https://hu.wikipedia.org/wiki/Gabon"
@@ -3334,7 +3334,7 @@
     12.11666666,
     -61.66666666
    ],
-   "fame": 251,
+   "fame": 252,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Grenada",
     "hu": "https://hu.wikipedia.org/wiki/Grenada"
@@ -3388,7 +3388,7 @@
     42,
     43.5
    ],
-   "fame": 349,
+   "fame": 350,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Georgia_(country)",
     "hu": "https://hu.wikipedia.org/wiki/Gr%C3%BAzia"
@@ -3496,7 +3496,7 @@
     13.46666666,
     -16.56666666
    ],
-   "fame": 300,
+   "fame": 301,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/The_Gambia",
     "hu": "https://hu.wikipedia.org/wiki/Gambia"
@@ -3708,7 +3708,7 @@
     15.5,
     -90.25
    ],
-   "fame": 281,
+   "fame": 282,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Guatemala",
     "hu": "https://hu.wikipedia.org/wiki/Guatemala"
@@ -3816,7 +3816,7 @@
     5,
     -59
    ],
-   "fame": 286,
+   "fame": 287,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Guyana",
     "hu": "https://hu.wikipedia.org/wiki/Guyana"
@@ -3870,7 +3870,7 @@
     15,
     -86.5
    ],
-   "fame": 299,
+   "fame": 300,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Honduras",
     "hu": "https://hu.wikipedia.org/wiki/Honduras"
@@ -3978,7 +3978,7 @@
     19,
     -72.41666666
    ],
-   "fame": 291,
+   "fame": 293,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Haiti",
     "hu": "https://hu.wikipedia.org/wiki/Haiti"
@@ -4140,7 +4140,7 @@
     53,
     -8
    ],
-   "fame": 342,
+   "fame": 343,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Republic_of_Ireland",
     "hu": "https://hu.wikipedia.org/wiki/%C3%8Drorsz%C3%A1g"
@@ -4518,7 +4518,7 @@
     18.25,
     -77.5
    ],
-   "fame": 281,
+   "fame": 283,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Jamaica",
     "hu": "https://hu.wikipedia.org/wiki/Jamaica"
@@ -4681,7 +4681,7 @@
     1,
     38
    ],
-   "fame": 337,
+   "fame": 338,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Kenya",
     "hu": "https://hu.wikipedia.org/wiki/Kenya"
@@ -4843,7 +4843,7 @@
     1.41666666,
     173
    ],
-   "fame": 249,
+   "fame": 251,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Kiribati",
     "hu": "https://hu.wikipedia.org/wiki/Kiribati"
@@ -5319,7 +5319,7 @@
     13.88333333,
     -60.96666666
    ],
-   "fame": 235,
+   "fame": 236,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Saint_Lucia",
     "hu": "https://hu.wikipedia.org/wiki/Saint_Lucia"
@@ -5535,7 +5535,7 @@
     -29.5,
     28.5
    ],
-   "fame": 280,
+   "fame": 281,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Lesotho",
     "hu": "https://hu.wikipedia.org/wiki/Lesotho"
@@ -5807,7 +5807,7 @@
     32,
     -5
    ],
-   "fame": 334,
+   "fame": 335,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Morocco",
     "hu": "https://hu.wikipedia.org/wiki/Marokk%C3%B3"
@@ -6077,7 +6077,7 @@
     9,
     168
    ],
-   "fame": 236,
+   "fame": 237,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Marshall_Islands",
     "hu": "https://hu.wikipedia.org/wiki/Marshall-szigetek"
@@ -6347,7 +6347,7 @@
     20,
     -12
    ],
-   "fame": 305,
+   "fame": 306,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Mauritania",
     "hu": "https://hu.wikipedia.org/wiki/Maurit%C3%A1nia"
@@ -6455,7 +6455,7 @@
     -20.28333333,
     57.55
    ],
-   "fame": 283,
+   "fame": 284,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Mauritius",
     "hu": "https://hu.wikipedia.org/wiki/Mauritius"
@@ -6563,7 +6563,7 @@
     -13.5,
     34
    ],
-   "fame": 297,
+   "fame": 298,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Malawi",
     "hu": "https://hu.wikipedia.org/wiki/Malawi"
@@ -6617,7 +6617,7 @@
     23,
     -102
    ],
-   "fame": 401,
+   "fame": 402,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Mexico",
     "hu": "https://hu.wikipedia.org/wiki/Mexik%C3%B3"
@@ -6725,7 +6725,7 @@
     -18.25,
     35
    ],
-   "fame": 301,
+   "fame": 302,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Mozambique",
     "hu": "https://hu.wikipedia.org/wiki/Mozambik"
@@ -6779,7 +6779,7 @@
     -22,
     17
    ],
-   "fame": 315,
+   "fame": 316,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Namibia",
     "hu": "https://hu.wikipedia.org/wiki/Nam%C3%ADbia"
@@ -6941,7 +6941,7 @@
     13,
     -85
    ],
-   "fame": 282,
+   "fame": 283,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Nicaragua",
     "hu": "https://hu.wikipedia.org/wiki/Nicaragua"
@@ -6995,7 +6995,7 @@
     52.5,
     5.75
    ],
-   "fame": 107,
+   "fame": 108,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Kingdom_of_the_Netherlands",
     "hu": "https://hu.wikipedia.org/wiki/Holland_Kir%C3%A1lys%C3%A1g"
@@ -7320,7 +7320,7 @@
     9,
     -80
    ],
-   "fame": 303,
+   "fame": 304,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Panama",
     "hu": "https://hu.wikipedia.org/wiki/Panama"
@@ -7428,7 +7428,7 @@
     -6,
     147
    ],
-   "fame": 285,
+   "fame": 286,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
     "hu": "https://hu.wikipedia.org/wiki/P%C3%A1pua_%C3%9Aj-Guinea"
@@ -7698,7 +7698,7 @@
     39.5,
     -8
    ],
-   "fame": 371,
+   "fame": 372,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Portugal",
     "hu": "https://hu.wikipedia.org/wiki/Portug%C3%A1lia"
@@ -7753,7 +7753,7 @@
     7.5,
     134.5
    ],
-   "fame": 256,
+   "fame": 257,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Palau",
     "hu": "https://hu.wikipedia.org/wiki/Palau_(%C3%A1llam)"
@@ -8163,7 +8163,7 @@
      "source": "worldbank"
     },
     "highestPoint": {
-     "value": 3133,
+     "value": 3207,
      "source": "wikidata"
     },
     "density": {
@@ -8836,7 +8836,7 @@
     7,
     30
    ],
-   "fame": 282,
+   "fame": 283,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/South_Sudan",
     "hu": "https://hu.wikipedia.org/wiki/D%C3%A9l-Szud%C3%A1n"
@@ -8944,7 +8944,7 @@
     13.83333333,
     -88.91666666
    ],
-   "fame": 287,
+   "fame": 288,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/El_Salvador",
     "hu": "https://hu.wikipedia.org/wiki/Salvador"
@@ -9052,7 +9052,7 @@
     -26.5,
     31.5
    ],
-   "fame": 286,
+   "fame": 287,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Eswatini",
     "hu": "https://hu.wikipedia.org/wiki/Szv%C3%A1zif%C3%B6ld"
@@ -9268,7 +9268,7 @@
     39,
     71
    ],
-   "fame": 307,
+   "fame": 308,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Tajikistan",
     "hu": "https://hu.wikipedia.org/wiki/T%C3%A1dzsikiszt%C3%A1n"
@@ -9484,7 +9484,7 @@
     -20,
     -175
    ],
-   "fame": 260,
+   "fame": 261,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Tonga",
     "hu": "https://hu.wikipedia.org/wiki/Tonga"
@@ -9700,7 +9700,7 @@
     23.5,
     121
    ],
-   "fame": 314,
+   "fame": 315,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Taiwan",
     "hu": "https://hu.wikipedia.org/wiki/K%C3%ADnai_K%C3%B6zt%C3%A1rsas%C3%A1g"
@@ -10161,7 +10161,7 @@
     8,
     -66
    ],
-   "fame": 345,
+   "fame": 346,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Venezuela",
     "hu": "https://hu.wikipedia.org/wiki/Venezuela"
@@ -10431,7 +10431,7 @@
     15,
     48
    ],
-   "fame": 316,
+   "fame": 315,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Yemen",
     "hu": "https://hu.wikipedia.org/wiki/Jemen"
