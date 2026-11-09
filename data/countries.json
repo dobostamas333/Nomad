@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T12:21:11.002Z",
+ "generatedAt": "2026-11-09T12:49:07.263Z",
  "sources": {
   "wikidata": {
    "name": "Wikidata / Wikipedia",
@@ -62,8 +62,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 84.2,
-     "year": 2024,
+     "value": 84.1,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -116,9 +116,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 83.1,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 77.3,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1911,
@@ -170,9 +170,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 66.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 63.7,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 7492,
@@ -224,9 +224,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77.8,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 79,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 402,
@@ -278,9 +278,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 79.8,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 77,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2764,
@@ -332,9 +332,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 78.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 74.6,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 4090,
@@ -386,8 +386,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 64.8,
-     "year": 2024,
+     "value": 56.2,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -440,9 +440,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77.5,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 76,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 6962,
@@ -495,9 +495,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 82,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 81,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 3798,
@@ -550,8 +550,8 @@
     },
     "lifeExpectancy": {
      "value": 83.1,
-     "year": 2024,
-     "source": "worldbank"
+     "year": 2023,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2745,
@@ -603,9 +603,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74.6,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 72,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 4466,
@@ -657,9 +657,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 78,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 76.9,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2386,
@@ -711,9 +711,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 76.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 78,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 340,
@@ -765,8 +765,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74.9,
-     "year": 2024,
+     "value": 67.5,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -819,9 +819,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 82.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 81.7,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 694,
@@ -873,9 +873,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 61.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 60.4,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 749,
@@ -981,9 +981,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 81.4,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 76.9,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 134,
@@ -1035,9 +1035,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 63.8,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 57.5,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2684,
@@ -1089,9 +1089,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 61,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 60.9,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 658,
@@ -1143,9 +1143,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 75.5,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 77.2,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1850,
@@ -1197,9 +1197,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 68.7,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 65,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 6542,
@@ -1251,9 +1251,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 76,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 75.7,
+     "year": 2017,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2994,
@@ -1305,9 +1305,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74.7,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 75.7,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 63,
@@ -1359,9 +1359,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 73.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 71.5,
+     "year": 2021,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 7570,
@@ -1413,8 +1413,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 69.3,
-     "year": 2024,
+     "value": 58.3,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -1467,9 +1467,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74.4,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 73.8,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 345,
@@ -1495,7 +1495,7 @@
     17.25,
     -88.75
    ],
-   "fame": 281,
+   "fame": 282,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Belize",
     "hu": "https://hu.wikipedia.org/wiki/Belize"
@@ -1521,9 +1521,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 73.7,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 71,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1124,
@@ -1575,9 +1575,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 82.1,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 83.6,
+     "year": 2021,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 5959,
@@ -1629,9 +1629,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 62.1,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 59.6,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 5109,
@@ -1683,9 +1683,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 57.7,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 52.2,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1410,
@@ -1737,9 +1737,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 66,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 64.6,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1020,
@@ -1791,9 +1791,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 84.4,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 83,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 4634,
@@ -1845,9 +1845,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 62.1,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 53.6,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1752,
@@ -1873,7 +1873,7 @@
     -30,
     -71
    ],
-   "fame": 381,
+   "fame": 382,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Chile",
     "hu": "https://hu.wikipedia.org/wiki/Chile"
@@ -1899,9 +1899,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 81.4,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 80,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 6893,
@@ -1953,9 +1953,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 64,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 58.1,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 4095,
@@ -2007,9 +2007,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 78,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 79,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 8849,
@@ -2061,9 +2061,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77.9,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 74,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 5775,
@@ -2115,9 +2115,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 81,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 79.8,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 3820,
@@ -2169,9 +2169,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 78.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 78,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1974,
@@ -2223,9 +2223,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 76.2,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 72.8,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2829,
@@ -2251,7 +2251,7 @@
     35,
     33
    ],
-   "fame": 326,
+   "fame": 327,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Cyprus",
     "hu": "https://hu.wikipedia.org/wiki/Ciprusi_K%C3%B6zt%C3%A1rsas%C3%A1g"
@@ -2277,9 +2277,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 81.8,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 80.5,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1952,
@@ -2331,9 +2331,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 80,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 79,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1603,
@@ -2439,9 +2439,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 66.2,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 62.5,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2028,
@@ -2493,9 +2493,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 82.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 80.7,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 171,
@@ -2547,9 +2547,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 71.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 73,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1447,
@@ -2601,9 +2601,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 73.9,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 74,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 3101,
@@ -2655,9 +2655,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 76.5,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 77.1,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2918,
@@ -2710,9 +2710,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77.6,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 78,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 6263,
@@ -2765,9 +2765,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 79.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 78,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 317,
@@ -2819,9 +2819,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 71.8,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 71.5,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2637,
@@ -2873,9 +2873,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 68.9,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 65.1,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 3018,
@@ -2901,7 +2901,7 @@
     40,
     -4
    ],
-   "fame": 396,
+   "fame": 397,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Spain",
     "hu": "https://hu.wikipedia.org/wiki/Spanyolorsz%C3%A1g"
@@ -2927,9 +2927,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 83.9,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 83,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 3715,
@@ -2955,7 +2955,7 @@
     8,
     38
    ],
-   "fame": 347,
+   "fame": 348,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Ethiopia",
     "hu": "https://hu.wikipedia.org/wiki/Eti%C3%B3pia"
@@ -2981,8 +2981,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 67.6,
-     "year": 2024,
+     "value": 58.7,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -3036,9 +3036,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 82.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 81.2,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1361,
@@ -3090,9 +3090,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 67.5,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 68,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1324,
@@ -3118,7 +3118,7 @@
     6.91666666,
     158.25
    ],
-   "fame": 223,
+   "fame": 224,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia",
     "hu": "https://hu.wikipedia.org/wiki/Mikron%C3%A9ziai_Sz%C3%B6vets%C3%A9gi_%C3%81llamok"
@@ -3144,9 +3144,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 67.4,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 69.2,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 791,
@@ -3198,9 +3198,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 83,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 82,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 4806,
@@ -3252,9 +3252,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 68.5,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 66.1,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1070,
@@ -3306,9 +3306,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 81.4,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 82,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1345,
@@ -3360,9 +3360,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 75.4,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 75,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 840,
@@ -3414,9 +3414,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74.7,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 73.3,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 5193,
@@ -3468,9 +3468,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 65.7,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 62.7,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 885,
@@ -3522,9 +3522,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 66.1,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 61.2,
+     "year": 2016,
+     "source": "wikidata"
     },
     "density": {
      "value": 250,
@@ -3572,9 +3572,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 60.9,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 60,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1752,
@@ -3626,9 +3626,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 63.9,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 57.7,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 3011,
@@ -3680,9 +3680,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 81.8,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 81.1,
+     "year": 2015,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2918,
@@ -3734,9 +3734,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 72.7,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 73.4,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 4203,
@@ -3788,9 +3788,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 64.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 59.9,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 262,
@@ -3842,9 +3842,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 70.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 66,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2810,
@@ -3896,9 +3896,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 73,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 73.6,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2849,
@@ -3950,9 +3950,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 78.9,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 78,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1831,
@@ -4004,9 +4004,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 65.1,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 63.3,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2674,
@@ -4112,9 +4112,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 71.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 69.2,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 4884,
@@ -4220,9 +4220,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 83.2,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 83,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1208,
@@ -4274,9 +4274,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 72.2,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 70,
+     "year": 2021,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 8586,
@@ -4328,9 +4328,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 72.4,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 71,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 3611,
@@ -4382,9 +4382,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77.9,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 75,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 5628,
@@ -4436,9 +4436,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 82.8,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 82,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2110,
@@ -4490,9 +4490,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 84,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 82.5,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 4806,
@@ -4544,9 +4544,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 71.6,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 71,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2256,
@@ -4598,9 +4598,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 78,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 74.3,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1854,
@@ -4654,8 +4654,8 @@
     },
     "lifeExpectancy": {
      "value": 84,
-     "year": 2024,
-     "source": "worldbank"
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 3777,
@@ -4707,8 +4707,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 63.8,
-     "year": 2024,
+     "value": 60.5,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -4761,9 +4761,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 72.4,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 71,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 7439,
@@ -4789,7 +4789,7 @@
     13,
     105
    ],
-   "fame": 331,
+   "fame": 332,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Cambodia",
     "hu": "https://hu.wikipedia.org/wiki/Kambodzsa"
@@ -4815,9 +4815,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 70.8,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 69,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1813,
@@ -4869,9 +4869,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 66.6,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 68,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 81,
@@ -4923,9 +4923,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 67,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 63.7,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2361,
@@ -4963,7 +4963,7 @@
      "source": "wikidata"
     },
     "area": {
-     "value": 269,
+     "value": 272,
      "source": "wikidata"
     },
     "gdp": {
@@ -4977,16 +4977,16 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 72.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 72,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1156,
      "source": "wikidata"
     },
     "density": {
-     "value": 174,
+     "value": 173,
      "year": 2025,
      "source": "derived"
     }
@@ -5021,9 +5021,9 @@
      "source": "wikidata"
     },
     "lifeExpectancy": {
-     "value": 73.7,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 71.7,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2744,
@@ -5075,9 +5075,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 83.6,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 83,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1947,
@@ -5129,9 +5129,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 84.6,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 74.7,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 140,
@@ -5183,9 +5183,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74.5,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 72.3,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 7010,
@@ -5237,8 +5237,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 69.2,
-     "year": 2024,
+     "value": 63,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -5291,9 +5291,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77.9,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 79.6,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 3088,
@@ -5345,9 +5345,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 72.8,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 71,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 952,
@@ -5399,9 +5399,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 84.2,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 82.7,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2599,
@@ -5453,8 +5453,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77.7,
-     "year": 2024,
+     "value": 70.3,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -5507,9 +5507,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 62.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 62.5,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1440,
@@ -5561,8 +5561,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 57.8,
-     "year": 2024,
+     "value": 45.1,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -5615,9 +5615,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77.2,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 74.3,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 294,
@@ -5670,9 +5670,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 83.2,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 83,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 560,
@@ -5725,9 +5725,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 76.4,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 74.5,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 312,
@@ -5779,9 +5779,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 71.1,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 71.9,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2267,
@@ -5833,9 +5833,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 75.5,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 75.3,
+     "year": 2023,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 4167,
@@ -5887,8 +5887,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 86.5,
-     "year": 2024,
+     "value": 84.2,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -5941,9 +5941,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 71.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 69,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 430,
@@ -5995,9 +5995,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77.9,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 77.1,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2534,
@@ -6049,9 +6049,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 63.8,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 65.9,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2876,
@@ -6103,8 +6103,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 67.1,
-     "year": 2024,
+     "value": 64.4,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -6157,9 +6157,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 76.6,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 74,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2764,
@@ -6211,9 +6211,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 60.7,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 58,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1153,
@@ -6265,8 +6265,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 67.1,
-     "year": 2024,
+     "value": 63.1,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -6319,8 +6319,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 72.4,
-     "year": 2024,
+     "value": 68,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -6373,9 +6373,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 68.7,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 63.2,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 915,
@@ -6428,8 +6428,8 @@
     },
     "lifeExpectancy": {
      "value": 83,
-     "year": 2024,
-     "source": "worldbank"
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 253,
@@ -6481,9 +6481,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 73.8,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 74.4,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 828,
@@ -6535,9 +6535,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 81.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 77.3,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 5,
@@ -6589,8 +6589,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 67.6,
-     "year": 2024,
+     "value": 56.7,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -6643,9 +6643,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 75.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 75,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 5636,
@@ -6697,9 +6697,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 76.8,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 75.3,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 4095,
@@ -6751,9 +6751,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 63.8,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 58.3,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2436,
@@ -6805,8 +6805,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 67.5,
-     "year": 2024,
+     "value": 55.3,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -6859,9 +6859,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 61.4,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 60.1,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2022,
@@ -6913,9 +6913,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 54.6,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 53.4,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2419,
@@ -6967,9 +6967,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 75.1,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 75,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2107,
@@ -7021,8 +7021,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 82,
-     "year": 2024,
+     "value": 80.5,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -7076,9 +7076,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 83.2,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 82.5,
+     "year": 2017,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2469,
@@ -7130,8 +7130,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 70.6,
-     "year": 2024,
+     "value": 66.6,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -7170,7 +7170,7 @@
      "source": "worldbank"
     },
     "area": {
-     "value": 21,
+     "value": 21.2,
      "source": "wikidata"
     },
     "gdp": {
@@ -7184,16 +7184,16 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 62.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 64,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 71,
      "source": "wikidata"
     },
     "density": {
-     "value": 573,
+     "value": 567,
      "year": 2025,
      "source": "derived"
     }
@@ -7212,7 +7212,7 @@
     -41,
     174
    ],
-   "fame": 351,
+   "fame": 352,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/New_Zealand",
     "hu": "https://hu.wikipedia.org/wiki/%C3%9Aj-Z%C3%A9land"
@@ -7238,9 +7238,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 82,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 81.6,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 3724,
@@ -7292,9 +7292,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 80.2,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 77,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 3018,
@@ -7346,9 +7346,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 79.8,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 77,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 3475,
@@ -7400,9 +7400,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77.9,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 73,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 6768,
@@ -7454,9 +7454,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 66.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 66,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 4509,
@@ -7508,9 +7508,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 69.9,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 71.1,
+     "year": 2018,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2954,
@@ -7562,9 +7562,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 67.8,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 66,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 8611,
@@ -7616,9 +7616,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 78.4,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 76,
+     "year": 2021,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2501,
@@ -7670,9 +7670,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 69.2,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 73,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1026,
@@ -7725,9 +7725,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 82.4,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 82,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2351,
@@ -7753,7 +7753,7 @@
     7.5,
     134.5
    ],
-   "fame": 257,
+   "fame": 258,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Palau",
     "hu": "https://hu.wikipedia.org/wiki/Palau_(%C3%A1llam)"
@@ -7779,8 +7779,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 69.4,
-     "year": 2024,
+     "value": 68,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -7833,9 +7833,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 70,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 842,
@@ -7887,9 +7887,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 82.5,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 78.2,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 103,
@@ -7941,9 +7941,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 76.5,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 75,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2544,
@@ -7995,9 +7995,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 76,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 75,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2658,
@@ -8050,9 +8050,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 73.4,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 73,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 5642,
@@ -8104,9 +8104,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 70.5,
-     "year": 2025,
-     "source": "wikidata"
+     "value": 61.8,
+     "year": 2009,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 4507,
@@ -8158,9 +8158,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 79,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 74.6,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 3207,
@@ -8213,8 +8213,8 @@
     },
     "lifeExpectancy": {
      "value": 70.7,
-     "year": 2024,
-     "source": "worldbank"
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2335,
@@ -8266,9 +8266,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 76.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 74.3,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 905,
@@ -8294,7 +8294,7 @@
     15,
     30
    ],
-   "fame": 334,
+   "fame": 335,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Sudan",
     "hu": "https://hu.wikipedia.org/wiki/Szud%C3%A1n"
@@ -8320,9 +8320,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 66.5,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 66,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 3042,
@@ -8375,9 +8375,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 84.1,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 83,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2097,
@@ -8429,9 +8429,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 83.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 83,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 164,
@@ -8483,9 +8483,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 82.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 81,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2864,
@@ -8538,9 +8538,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 78.4,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 77,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2655,
@@ -8592,9 +8592,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 62,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 51.8,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1945,
@@ -8646,9 +8646,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 85.8,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 85.4,
+     "year": 2012,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 756,
@@ -8700,9 +8700,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 68.9,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 67.1,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 531,
@@ -8754,9 +8754,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 59,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 56.3,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2460,
@@ -8808,9 +8808,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 73.8,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 70,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1280,
@@ -8862,9 +8862,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 57.7,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 56.8,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 3187,
@@ -8916,9 +8916,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 69.9,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 66.6,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2024,
@@ -8970,9 +8970,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 72.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 73.5,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2730,
@@ -9024,9 +9024,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 72.6,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 72,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2814,
@@ -9078,8 +9078,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 64.3,
-     "year": 2024,
+     "value": 46.9,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -9132,9 +9132,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 55.2,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 52.9,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 3445,
@@ -9186,9 +9186,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 62.9,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 60.2,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 986,
@@ -9240,8 +9240,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 76.6,
-     "year": 2024,
+     "value": 74.7,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -9294,9 +9294,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 71.9,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 71.1,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 7495,
@@ -9348,8 +9348,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 67.9,
-     "year": 2024,
+     "value": 63.3,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -9402,9 +9402,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 70.2,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 67.8,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 3139,
@@ -9456,9 +9456,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 76.7,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 75.7,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1544,
@@ -9510,9 +9510,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 73.1,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 73,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1030,
@@ -9538,7 +9538,7 @@
     39,
     35
    ],
-   "fame": 428,
+   "fame": 430,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Turkey",
     "hu": "https://hu.wikipedia.org/wiki/T%C3%B6r%C3%B6korsz%C3%A1g"
@@ -9564,9 +9564,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77.4,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 78,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 5137,
@@ -9618,9 +9618,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 73.6,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 70.7,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 940,
@@ -9646,7 +9646,7 @@
     -8,
     178
    ],
-   "fame": 252,
+   "fame": 253,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Tuvalu",
     "hu": "https://hu.wikipedia.org/wiki/Tuvalu"
@@ -9658,7 +9658,7 @@
      "source": "worldbank"
     },
     "area": {
-     "value": 25.14,
+     "value": 25.63,
      "source": "wikidata"
     },
     "gdp": {
@@ -9672,16 +9672,16 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 67.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 65,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 5,
      "source": "wikidata"
     },
     "density": {
-     "value": 378,
+     "value": 370,
      "year": 2025,
      "source": "derived"
     }
@@ -9712,7 +9712,7 @@
      "source": "wikidata"
     },
     "area": {
-     "value": 36193,
+     "value": 36197,
      "source": "wikidata"
     },
     "lifeExpectancy": {
@@ -9744,7 +9744,7 @@
     -6,
     35
    ],
-   "fame": 320,
+   "fame": 321,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Tanzania",
     "hu": "https://hu.wikipedia.org/wiki/Tanz%C3%A1nia"
@@ -9770,8 +9770,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 67.2,
-     "year": 2024,
+     "value": 60.5,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -9798,7 +9798,7 @@
     49,
     32
    ],
-   "fame": 389,
+   "fame": 390,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Ukraine",
     "hu": "https://hu.wikipedia.org/wiki/Ukrajna"
@@ -9824,9 +9824,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74.7,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 69,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 2061,
@@ -9878,9 +9878,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 68.5,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 59.9,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 5109,
@@ -9906,7 +9906,7 @@
     38,
     -97
    ],
-   "fame": 427,
+   "fame": 426,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/United_States",
     "hu": "https://hu.wikipedia.org/wiki/Amerikai_Egyes%C3%BClt_%C3%81llamok"
@@ -9932,9 +9932,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 78.9,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 77,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 6190,
@@ -9986,9 +9986,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 78.3,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 77.5,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 514,
@@ -10040,9 +10040,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 72.5,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 72,
+     "year": 2022,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 4643,
@@ -10075,12 +10075,12 @@
    },
    "stats": {
     "population": {
-     "value": 882,
+     "value": 949,
      "year": 2024,
      "source": "wikidata"
     },
     "area": {
-     "value": 0.49,
+     "value": 0.44,
      "source": "wikidata"
     },
     "highestPoint": {
@@ -10088,7 +10088,7 @@
      "source": "wikidata"
     },
     "density": {
-     "value": 1800,
+     "value": 2157,
      "year": 2024,
      "source": "derived"
     }
@@ -10133,9 +10133,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 71.4,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 73.2,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1220,
@@ -10241,9 +10241,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74.7,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 76.3,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 3147,
@@ -10269,7 +10269,7 @@
     -16,
     167
    ],
-   "fame": 263,
+   "fame": 264,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Vanuatu",
     "hu": "https://hu.wikipedia.org/wiki/Vanuatu"
@@ -10295,9 +10295,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 71.7,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 72.1,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 1879,
@@ -10349,8 +10349,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 71.8,
-     "year": 2024,
+     "value": 69.5,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -10377,7 +10377,7 @@
     42.666667,
     21.166667
    ],
-   "fame": 283,
+   "fame": 284,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Kosovo",
     "hu": "https://hu.wikipedia.org/wiki/Koszov%C3%B3"
@@ -10403,8 +10403,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 78.2,
-     "year": 2024,
+     "value": 74.8,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -10457,9 +10457,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 69.4,
-     "year": 2024,
-     "source": "worldbank"
+     "value": 65,
+     "year": 2016,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 3666,
@@ -10511,8 +10511,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 66.3,
-     "year": 2024,
+     "value": 57.4,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -10566,8 +10566,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 66.5,
-     "year": 2024,
+     "value": 55.9,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -10620,8 +10620,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 63.1,
-     "year": 2024,
+     "value": 49.8,
+     "year": 2009,
      "source": "worldbank"
     },
     "highestPoint": {
