@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T12:49:07.263Z",
+ "generatedAt": "2026-11-16T12:41:41.448Z",
  "sources": {
   "wikidata": {
    "name": "Wikidata / Wikipedia",
@@ -62,8 +62,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 84.1,
-     "year": 2009,
+     "value": 84.2,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -116,9 +116,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77.3,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 83.1,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1911,
@@ -144,7 +144,7 @@
     33,
     65
    ],
-   "fame": 363,
+   "fame": 364,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Afghanistan",
     "hu": "https://hu.wikipedia.org/wiki/Afganiszt%C3%A1n"
@@ -170,9 +170,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 63.7,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 66.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 7492,
@@ -224,9 +224,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 79,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 77.8,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 402,
@@ -278,9 +278,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 79.8,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2764,
@@ -306,7 +306,7 @@
     40,
     45
    ],
-   "fame": 354,
+   "fame": 355,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Armenia",
     "hu": "https://hu.wikipedia.org/wiki/%C3%96rm%C3%A9nyorsz%C3%A1g"
@@ -332,9 +332,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74.6,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 78.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 4090,
@@ -386,8 +386,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 56.2,
-     "year": 2009,
+     "value": 64.8,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -426,7 +426,7 @@
      "source": "worldbank"
     },
     "area": {
-     "value": 2780400,
+     "value": 2780085,
      "source": "wikidata"
     },
     "gdp": {
@@ -440,9 +440,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 76,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 77.5,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 6962,
@@ -495,9 +495,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 81,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 82,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 3798,
@@ -535,7 +535,7 @@
      "source": "wikidata"
     },
     "area": {
-     "value": 7692024,
+     "value": 7688287,
      "source": "wikidata"
     },
     "gdp": {
@@ -550,8 +550,8 @@
     },
     "lifeExpectancy": {
      "value": 83.1,
-     "year": 2023,
-     "source": "wikidata"
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2745,
@@ -577,7 +577,7 @@
     40.5,
     47.5
    ],
-   "fame": 363,
+   "fame": 364,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Azerbaijan",
     "hu": "https://hu.wikipedia.org/wiki/Azerbajdzs%C3%A1n"
@@ -603,9 +603,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 72,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 74.6,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 4466,
@@ -657,9 +657,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 76.9,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 78,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2386,
@@ -685,7 +685,7 @@
     13.16666666,
     -59.53333333
    ],
-   "fame": 276,
+   "fame": 277,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Barbados",
     "hu": "https://hu.wikipedia.org/wiki/Barbados"
@@ -711,9 +711,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 78,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 76.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 340,
@@ -765,8 +765,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 67.5,
-     "year": 2009,
+     "value": 74.9,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -793,7 +793,7 @@
     50.83333333,
     4
    ],
-   "fame": 383,
+   "fame": 384,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Belgium",
     "hu": "https://hu.wikipedia.org/wiki/Belgium"
@@ -819,9 +819,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 81.7,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 82.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 694,
@@ -873,9 +873,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 60.4,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 61.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 749,
@@ -981,9 +981,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 76.9,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 81.4,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 134,
@@ -1009,7 +1009,7 @@
     -3.5,
     30
    ],
-   "fame": 303,
+   "fame": 304,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Burundi",
     "hu": "https://hu.wikipedia.org/wiki/Burundi"
@@ -1035,9 +1035,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 57.5,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 63.8,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2684,
@@ -1089,9 +1089,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 60.9,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 61,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 658,
@@ -1143,9 +1143,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77.2,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 75.5,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1850,
@@ -1171,7 +1171,7 @@
     -17,
     -65
    ],
-   "fame": 313,
+   "fame": 314,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Bolivia",
     "hu": "https://hu.wikipedia.org/wiki/Bol%C3%ADvia"
@@ -1197,9 +1197,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 65,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 68.7,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 6542,
@@ -1237,7 +1237,7 @@
      "source": "wikidata"
     },
     "area": {
-     "value": 8515767,
+     "value": 8509361,
      "source": "wikidata"
     },
     "gdp": {
@@ -1251,16 +1251,16 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 75.7,
-     "year": 2017,
-     "source": "wikidata"
+     "value": 76,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2994,
      "source": "wikidata"
     },
     "density": {
-     "value": 25.15,
+     "value": 25.17,
      "year": 2026,
      "source": "derived"
     }
@@ -1305,9 +1305,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 75.7,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 74.7,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 63,
@@ -1333,7 +1333,7 @@
     27.5,
     90.5
    ],
-   "fame": 305,
+   "fame": 306,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Bhutan",
     "hu": "https://hu.wikipedia.org/wiki/Bhut%C3%A1n"
@@ -1359,9 +1359,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 71.5,
-     "year": 2021,
-     "source": "wikidata"
+     "value": 73.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 7570,
@@ -1413,8 +1413,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 58.3,
-     "year": 2009,
+     "value": 69.3,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -1441,7 +1441,7 @@
     53,
     28
    ],
-   "fame": 358,
+   "fame": 360,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Belarus",
     "hu": "https://hu.wikipedia.org/wiki/Feh%C3%A9roroszorsz%C3%A1g"
@@ -1467,9 +1467,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 73.8,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 74.4,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 345,
@@ -1521,9 +1521,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 71,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 73.7,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1124,
@@ -1575,9 +1575,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 83.6,
-     "year": 2021,
-     "source": "wikidata"
+     "value": 82.1,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 5959,
@@ -1603,7 +1603,7 @@
     0,
     25
    ],
-   "fame": 334,
+   "fame": 335,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
     "hu": "https://hu.wikipedia.org/wiki/Kong%C3%B3i_Demokratikus_K%C3%B6zt%C3%A1rsas%C3%A1g"
@@ -1615,7 +1615,7 @@
      "source": "worldbank"
     },
     "area": {
-     "value": 2344858,
+     "value": 2345410,
      "source": "wikidata"
     },
     "gdp": {
@@ -1629,16 +1629,16 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 59.6,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 62.1,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 5109,
      "source": "wikidata"
     },
     "density": {
-     "value": 48.12,
+     "value": 48.11,
      "year": 2025,
      "source": "derived"
     }
@@ -1657,7 +1657,7 @@
     7,
     21
    ],
-   "fame": 301,
+   "fame": 302,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Central_African_Republic",
     "hu": "https://hu.wikipedia.org/wiki/K%C3%B6z%C3%A9p-afrikai_K%C3%B6zt%C3%A1rsas%C3%A1g"
@@ -1683,9 +1683,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 52.2,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 57.7,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1410,
@@ -1737,9 +1737,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 64.6,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 66,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1020,
@@ -1791,9 +1791,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 83,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 84.4,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 4634,
@@ -1819,7 +1819,7 @@
     8,
     -5
    ],
-   "fame": 313,
+   "fame": 314,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Ivory_Coast",
     "hu": "https://hu.wikipedia.org/wiki/Elef%C3%A1ntcsontpart"
@@ -1845,9 +1845,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 53.6,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 62.1,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1752,
@@ -1873,7 +1873,7 @@
     -30,
     -71
    ],
-   "fame": 382,
+   "fame": 383,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Chile",
     "hu": "https://hu.wikipedia.org/wiki/Chile"
@@ -1899,9 +1899,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 80,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 81.4,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 6893,
@@ -1953,9 +1953,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 58.1,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 64,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 4095,
@@ -1993,7 +1993,7 @@
      "source": "wikidata"
     },
     "area": {
-     "value": 9596961,
+     "value": 9562910,
      "source": "wikidata"
     },
     "gdp": {
@@ -2007,16 +2007,16 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 79,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 78,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 8849,
      "source": "wikidata"
     },
     "density": {
-     "value": 146,
+     "value": 147,
      "year": 2025,
      "source": "derived"
     }
@@ -2061,9 +2061,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 77.9,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 5775,
@@ -2115,9 +2115,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 79.8,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 81,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 3820,
@@ -2169,9 +2169,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 78,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 78.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1974,
@@ -2197,7 +2197,7 @@
     16,
     -24
    ],
-   "fame": 291,
+   "fame": 292,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Cape_Verde",
     "hu": "https://hu.wikipedia.org/wiki/Z%C3%B6ld-foki_K%C3%B6zt%C3%A1rsas%C3%A1g"
@@ -2223,9 +2223,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 72.8,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 76.2,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2829,
@@ -2277,9 +2277,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 80.5,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 81.8,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1952,
@@ -2331,9 +2331,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 79,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 80,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1603,
@@ -2439,9 +2439,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 62.5,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 66.2,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2028,
@@ -2493,9 +2493,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 80.7,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 82.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 171,
@@ -2521,7 +2521,7 @@
     15.41666666,
     -61.33333333
    ],
-   "fame": 266,
+   "fame": 268,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Dominica",
     "hu": "https://hu.wikipedia.org/wiki/Dominikai_K%C3%B6z%C3%B6ss%C3%A9g"
@@ -2547,9 +2547,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 73,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 71.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1447,
@@ -2575,7 +2575,7 @@
     19,
     -70.66666666
    ],
-   "fame": 281,
+   "fame": 282,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Dominican_Republic",
     "hu": "https://hu.wikipedia.org/wiki/Dominikai_K%C3%B6zt%C3%A1rsas%C3%A1g"
@@ -2601,9 +2601,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 73.9,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 3101,
@@ -2655,9 +2655,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77.1,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 76.5,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2918,
@@ -2710,9 +2710,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 78,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 77.6,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 6263,
@@ -2765,9 +2765,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 78,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 79.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 317,
@@ -2819,9 +2819,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 71.5,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 71.8,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2637,
@@ -2847,7 +2847,7 @@
     15,
     39
    ],
-   "fame": 308,
+   "fame": 309,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Eritrea",
     "hu": "https://hu.wikipedia.org/wiki/Eritrea"
@@ -2873,9 +2873,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 65.1,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 68.9,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 3018,
@@ -2927,9 +2927,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 83,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 83.9,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 3715,
@@ -2967,7 +2967,7 @@
      "source": "worldbank"
     },
     "area": {
-     "value": 1104300,
+     "value": 1129819,
      "source": "wikidata"
     },
     "gdp": {
@@ -2981,8 +2981,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 58.7,
-     "year": 2009,
+     "value": 67.6,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -2990,7 +2990,7 @@
      "source": "wikidata"
     },
     "density": {
-     "value": 123,
+     "value": 120,
      "year": 2025,
      "source": "derived"
     }
@@ -3036,9 +3036,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 81.2,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 82.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1361,
@@ -3064,7 +3064,7 @@
     -18,
     175
    ],
-   "fame": 281,
+   "fame": 282,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Fiji",
     "hu": "https://hu.wikipedia.org/wiki/Fidzsi-szigetek"
@@ -3090,9 +3090,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 68,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 67.5,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1324,
@@ -3118,7 +3118,7 @@
     6.91666666,
     158.25
    ],
-   "fame": 224,
+   "fame": 225,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia",
     "hu": "https://hu.wikipedia.org/wiki/Mikron%C3%A9ziai_Sz%C3%B6vets%C3%A9gi_%C3%81llamok"
@@ -3144,9 +3144,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 69.2,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 67.4,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 791,
@@ -3198,9 +3198,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 82,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 83,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 4806,
@@ -3252,9 +3252,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 66.1,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 68.5,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1070,
@@ -3306,9 +3306,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 82,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 81.4,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1345,
@@ -3334,7 +3334,7 @@
     12.11666666,
     -61.66666666
    ],
-   "fame": 252,
+   "fame": 253,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Grenada",
     "hu": "https://hu.wikipedia.org/wiki/Grenada"
@@ -3360,9 +3360,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 75,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 75.4,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 840,
@@ -3388,7 +3388,7 @@
     42,
     43.5
    ],
-   "fame": 350,
+   "fame": 351,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Georgia_(country)",
     "hu": "https://hu.wikipedia.org/wiki/Gr%C3%BAzia"
@@ -3414,9 +3414,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 73.3,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 74.7,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 5193,
@@ -3468,9 +3468,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 62.7,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 65.7,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 885,
@@ -3522,9 +3522,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 61.2,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 66.1,
+     "year": 2024,
+     "source": "worldbank"
     },
     "density": {
      "value": 250,
@@ -3572,9 +3572,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 60,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 60.9,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1752,
@@ -3600,7 +3600,7 @@
     2,
     10
    ],
-   "fame": 284,
+   "fame": 285,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Equatorial_Guinea",
     "hu": "https://hu.wikipedia.org/wiki/Egyenl%C3%ADt%C5%91i-Guinea"
@@ -3626,9 +3626,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 57.7,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 63.9,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 3011,
@@ -3680,9 +3680,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 81.1,
-     "year": 2015,
-     "source": "wikidata"
+     "value": 81.8,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2918,
@@ -3708,7 +3708,7 @@
     15.5,
     -90.25
    ],
-   "fame": 282,
+   "fame": 283,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Guatemala",
     "hu": "https://hu.wikipedia.org/wiki/Guatemala"
@@ -3734,9 +3734,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 73.4,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 72.7,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 4203,
@@ -3762,7 +3762,7 @@
     12,
     -15
    ],
-   "fame": 299,
+   "fame": 300,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Guinea-Bissau",
     "hu": "https://hu.wikipedia.org/wiki/Bissau-Guinea"
@@ -3788,9 +3788,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 59.9,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 64.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 262,
@@ -3842,9 +3842,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 66,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 70.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2810,
@@ -3870,7 +3870,7 @@
     15,
     -86.5
    ],
-   "fame": 300,
+   "fame": 301,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Honduras",
     "hu": "https://hu.wikipedia.org/wiki/Honduras"
@@ -3896,9 +3896,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 73.6,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 73,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2849,
@@ -3950,9 +3950,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 78,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 78.9,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1831,
@@ -3978,7 +3978,7 @@
     19,
     -72.41666666
    ],
-   "fame": 293,
+   "fame": 294,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Haiti",
     "hu": "https://hu.wikipedia.org/wiki/Haiti"
@@ -4004,9 +4004,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 63.3,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 65.1,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2674,
@@ -4032,7 +4032,7 @@
     47,
     20
    ],
-   "fame": 358,
+   "fame": 359,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Hungary",
     "hu": "https://hu.wikipedia.org/wiki/Magyarorsz%C3%A1g"
@@ -4098,7 +4098,7 @@
      "source": "worldbank"
     },
     "area": {
-     "value": 1904570,
+     "value": 1916907,
      "source": "wikidata"
     },
     "gdp": {
@@ -4112,16 +4112,16 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 69.2,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 71.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 4884,
      "source": "wikidata"
     },
     "density": {
-     "value": 150,
+     "value": 149,
      "year": 2025,
      "source": "derived"
     }
@@ -4220,9 +4220,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 83,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 83.2,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1208,
@@ -4260,7 +4260,7 @@
      "source": "worldbank"
     },
     "area": {
-     "value": 3287263,
+     "value": 3287593,
      "source": "wikidata"
     },
     "gdp": {
@@ -4274,9 +4274,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 70,
-     "year": 2021,
-     "source": "wikidata"
+     "value": 72.2,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 8586,
@@ -4328,9 +4328,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 71,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 72.4,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 3611,
@@ -4356,7 +4356,7 @@
     32,
     53
    ],
-   "fame": 376,
+   "fame": 377,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Iran",
     "hu": "https://hu.wikipedia.org/wiki/Ir%C3%A1n"
@@ -4382,9 +4382,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 75,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 77.9,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 5628,
@@ -4410,7 +4410,7 @@
     65,
     -18
    ],
-   "fame": 355,
+   "fame": 356,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Iceland",
     "hu": "https://hu.wikipedia.org/wiki/Izland"
@@ -4436,9 +4436,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 82,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 82.8,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2110,
@@ -4490,9 +4490,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 82.5,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 84,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 4806,
@@ -4544,9 +4544,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 71,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 71.6,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2256,
@@ -4598,9 +4598,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74.3,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 78,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1854,
@@ -4654,8 +4654,8 @@
     },
     "lifeExpectancy": {
      "value": 84,
-     "year": 2016,
-     "source": "wikidata"
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 3777,
@@ -4707,8 +4707,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 60.5,
-     "year": 2009,
+     "value": 63.8,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -4735,7 +4735,7 @@
     41,
     75
    ],
-   "fame": 320,
+   "fame": 321,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Kyrgyzstan",
     "hu": "https://hu.wikipedia.org/wiki/Kirgiziszt%C3%A1n"
@@ -4761,9 +4761,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 71,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 72.4,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 7439,
@@ -4815,9 +4815,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 69,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 70.8,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1813,
@@ -4869,9 +4869,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 68,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 66.6,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 81,
@@ -4923,9 +4923,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 63.7,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 67,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2361,
@@ -4977,9 +4977,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 72,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 72.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1156,
@@ -5021,9 +5021,9 @@
      "source": "wikidata"
     },
     "lifeExpectancy": {
-     "value": 71.7,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 73.7,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2744,
@@ -5075,9 +5075,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 83,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 83.6,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1947,
@@ -5129,9 +5129,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74.7,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 84.6,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 140,
@@ -5169,7 +5169,7 @@
      "source": "worldbank"
     },
     "area": {
-     "value": 2724900,
+     "value": 2724910,
      "source": "wikidata"
     },
     "gdp": {
@@ -5183,9 +5183,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 72.3,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 74.5,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 7010,
@@ -5211,7 +5211,7 @@
     18,
     105
    ],
-   "fame": 316,
+   "fame": 317,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Laos",
     "hu": "https://hu.wikipedia.org/wiki/Laosz"
@@ -5237,8 +5237,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 63,
-     "year": 2009,
+     "value": 69.2,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -5265,7 +5265,7 @@
     33.83333333,
     35.83333333
    ],
-   "fame": 329,
+   "fame": 330,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Lebanon",
     "hu": "https://hu.wikipedia.org/wiki/Libanon"
@@ -5291,9 +5291,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 79.6,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 77.9,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 3088,
@@ -5345,9 +5345,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 71,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 72.8,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 952,
@@ -5385,7 +5385,7 @@
      "source": "worldbank"
     },
     "area": {
-     "value": 160,
+     "value": 161,
      "source": "wikidata"
     },
     "gdp": {
@@ -5399,16 +5399,16 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 82.7,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 84.2,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2599,
      "source": "wikidata"
     },
     "density": {
-     "value": 256,
+     "value": 255,
      "year": 2025,
      "source": "derived"
     }
@@ -5427,7 +5427,7 @@
     7,
     81
    ],
-   "fame": 309,
+   "fame": 311,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Sri_Lanka",
     "hu": "https://hu.wikipedia.org/wiki/Sr%C3%AD_Lanka"
@@ -5453,8 +5453,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 70.3,
-     "year": 2009,
+     "value": 77.7,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -5507,9 +5507,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 62.5,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 62.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1440,
@@ -5535,7 +5535,7 @@
     -29.5,
     28.5
    ],
-   "fame": 281,
+   "fame": 282,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Lesotho",
     "hu": "https://hu.wikipedia.org/wiki/Lesotho"
@@ -5561,8 +5561,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 45.1,
-     "year": 2009,
+     "value": 57.8,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -5615,9 +5615,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74.3,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 77.2,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 294,
@@ -5670,9 +5670,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 83,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 83.2,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 560,
@@ -5725,9 +5725,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74.5,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 76.4,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 312,
@@ -5765,7 +5765,7 @@
      "source": "worldbank"
     },
     "area": {
-     "value": 1759541,
+     "value": 1759540,
      "source": "wikidata"
     },
     "gdp": {
@@ -5779,9 +5779,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 71.9,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 71.1,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2267,
@@ -5833,9 +5833,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 75.3,
-     "year": 2023,
-     "source": "wikidata"
+     "value": 75.5,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 4167,
@@ -5861,7 +5861,7 @@
     43.73333333,
     7.4
    ],
-   "fame": 321,
+   "fame": 322,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Monaco",
     "hu": "https://hu.wikipedia.org/wiki/Monaco"
@@ -5887,8 +5887,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 84.2,
-     "year": 2009,
+     "value": 86.5,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -5941,9 +5941,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 69,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 71.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 430,
@@ -5995,9 +5995,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77.1,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 77.9,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2534,
@@ -6049,9 +6049,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 65.9,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 63.8,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2876,
@@ -6077,7 +6077,7 @@
     9,
     168
    ],
-   "fame": 237,
+   "fame": 238,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Marshall_Islands",
     "hu": "https://hu.wikipedia.org/wiki/Marshall-szigetek"
@@ -6103,8 +6103,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 64.4,
-     "year": 2009,
+     "value": 67.1,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -6157,9 +6157,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 76.6,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2764,
@@ -6197,7 +6197,7 @@
      "source": "worldbank"
     },
     "area": {
-     "value": 1240192,
+     "value": 1241231,
      "source": "wikidata"
     },
     "gdp": {
@@ -6211,16 +6211,16 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 58,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 60.7,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1153,
      "source": "wikidata"
     },
     "density": {
-     "value": 20.32,
+     "value": 20.3,
      "year": 2025,
      "source": "derived"
     }
@@ -6265,8 +6265,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 63.1,
-     "year": 2009,
+     "value": 67.1,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -6293,7 +6293,7 @@
     46,
     105
    ],
-   "fame": 322,
+   "fame": 323,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Mongolia",
     "hu": "https://hu.wikipedia.org/wiki/Mong%C3%B3lia"
@@ -6319,8 +6319,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 68,
-     "year": 2009,
+     "value": 72.4,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -6373,9 +6373,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 63.2,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 68.7,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 915,
@@ -6428,8 +6428,8 @@
     },
     "lifeExpectancy": {
      "value": 83,
-     "year": 2022,
-     "source": "wikidata"
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 253,
@@ -6455,7 +6455,7 @@
     -20.28333333,
     57.55
    ],
-   "fame": 284,
+   "fame": 285,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Mauritius",
     "hu": "https://hu.wikipedia.org/wiki/Mauritius"
@@ -6481,9 +6481,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74.4,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 73.8,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 828,
@@ -6509,7 +6509,7 @@
     3.25,
     73
    ],
-   "fame": 290,
+   "fame": 291,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Maldives",
     "hu": "https://hu.wikipedia.org/wiki/Mald%C3%ADv-szigetek"
@@ -6535,9 +6535,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77.3,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 81.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 5,
@@ -6589,8 +6589,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 56.7,
-     "year": 2009,
+     "value": 67.6,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -6629,7 +6629,7 @@
      "source": "worldbank"
     },
     "area": {
-     "value": 1972550,
+     "value": 1960647,
      "source": "wikidata"
     },
     "gdp": {
@@ -6643,16 +6643,16 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 75,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 75.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 5636,
      "source": "wikidata"
     },
     "density": {
-     "value": 66.89,
+     "value": 67.3,
      "year": 2025,
      "source": "derived"
     }
@@ -6671,7 +6671,7 @@
     2.5,
     112.5
    ],
-   "fame": 340,
+   "fame": 342,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Malaysia",
     "hu": "https://hu.wikipedia.org/wiki/Malajzia"
@@ -6697,9 +6697,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 75.3,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 76.8,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 4095,
@@ -6725,7 +6725,7 @@
     -18.25,
     35
    ],
-   "fame": 302,
+   "fame": 303,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Mozambique",
     "hu": "https://hu.wikipedia.org/wiki/Mozambik"
@@ -6751,9 +6751,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 58.3,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 63.8,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2436,
@@ -6779,7 +6779,7 @@
     -22,
     17
    ],
-   "fame": 316,
+   "fame": 317,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Namibia",
     "hu": "https://hu.wikipedia.org/wiki/Nam%C3%ADbia"
@@ -6805,8 +6805,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 55.3,
-     "year": 2009,
+     "value": 67.5,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -6859,9 +6859,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 60.1,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 61.4,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2022,
@@ -6913,9 +6913,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 53.4,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 54.6,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2419,
@@ -6941,7 +6941,7 @@
     13,
     -85
    ],
-   "fame": 283,
+   "fame": 284,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Nicaragua",
     "hu": "https://hu.wikipedia.org/wiki/Nicaragua"
@@ -6967,9 +6967,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 75,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 75.1,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2107,
@@ -7021,8 +7021,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 80.5,
-     "year": 2009,
+     "value": 82,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -7076,9 +7076,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 82.5,
-     "year": 2017,
-     "source": "wikidata"
+     "value": 83.2,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2469,
@@ -7104,7 +7104,7 @@
     28,
     84
    ],
-   "fame": 324,
+   "fame": 325,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Nepal",
     "hu": "https://hu.wikipedia.org/wiki/Nep%C3%A1l"
@@ -7130,8 +7130,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 66.6,
-     "year": 2009,
+     "value": 70.6,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -7158,7 +7158,7 @@
     -0.53333333,
     166.91666666
    ],
-   "fame": 265,
+   "fame": 266,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Nauru",
     "hu": "https://hu.wikipedia.org/wiki/Nauru"
@@ -7184,9 +7184,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 64,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 62.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 71,
@@ -7238,9 +7238,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 81.6,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 82,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 3724,
@@ -7266,7 +7266,7 @@
     21,
     57
    ],
-   "fame": 297,
+   "fame": 298,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Oman",
     "hu": "https://hu.wikipedia.org/wiki/Om%C3%A1n"
@@ -7292,9 +7292,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 80.2,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 3018,
@@ -7346,9 +7346,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 79.8,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 3475,
@@ -7400,9 +7400,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 73,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 77.9,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 6768,
@@ -7428,7 +7428,7 @@
     -6,
     147
    ],
-   "fame": 286,
+   "fame": 289,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
     "hu": "https://hu.wikipedia.org/wiki/P%C3%A1pua_%C3%9Aj-Guinea"
@@ -7454,9 +7454,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 66,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 66.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 4509,
@@ -7482,7 +7482,7 @@
     13,
     122
    ],
-   "fame": 334,
+   "fame": 335,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Philippines",
     "hu": "https://hu.wikipedia.org/wiki/F%C3%BCl%C3%B6p-szigetek"
@@ -7508,9 +7508,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 71.1,
-     "year": 2018,
-     "source": "wikidata"
+     "value": 69.9,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2954,
@@ -7536,7 +7536,7 @@
     30,
     70
    ],
-   "fame": 356,
+   "fame": 357,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Pakistan",
     "hu": "https://hu.wikipedia.org/wiki/Pakiszt%C3%A1n"
@@ -7562,9 +7562,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 66,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 67.8,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 8611,
@@ -7616,9 +7616,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 76,
-     "year": 2021,
-     "source": "wikidata"
+     "value": 78.4,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2501,
@@ -7644,7 +7644,7 @@
     31.9,
     35.2
    ],
-   "fame": 225,
+   "fame": 226,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Palestine",
     "hu": "https://hu.wikipedia.org/wiki/Palesztina"
@@ -7670,9 +7670,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 73,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 69.2,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1026,
@@ -7725,9 +7725,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 82,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 82.4,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2351,
@@ -7753,7 +7753,7 @@
     7.5,
     134.5
    ],
-   "fame": 258,
+   "fame": 259,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Palau",
     "hu": "https://hu.wikipedia.org/wiki/Palau_(%C3%A1llam)"
@@ -7779,8 +7779,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 68,
-     "year": 2009,
+     "value": 69.4,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -7833,9 +7833,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 70,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 74,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 842,
@@ -7887,9 +7887,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 78.2,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 82.5,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 103,
@@ -7941,9 +7941,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 75,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 76.5,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2544,
@@ -7995,9 +7995,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 75,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 76,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2658,
@@ -8035,7 +8035,7 @@
      "source": "wikidata"
     },
     "area": {
-     "value": 17075400,
+     "value": 17098246,
      "year": 2014,
      "source": "wikidata"
     },
@@ -8050,16 +8050,16 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 73,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 73.4,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 5642,
      "source": "wikidata"
     },
     "density": {
-     "value": 8.56,
+     "value": 8.55,
      "year": 2025,
      "source": "derived"
     }
@@ -8104,9 +8104,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 61.8,
-     "year": 2009,
-     "source": "worldbank"
+     "value": 70.5,
+     "year": 2025,
+     "source": "wikidata"
     },
     "highestPoint": {
      "value": 4507,
@@ -8132,7 +8132,7 @@
     25,
     45
    ],
-   "fame": 350,
+   "fame": 351,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Saudi_Arabia",
     "hu": "https://hu.wikipedia.org/wiki/Sza%C3%BAd-Ar%C3%A1bia"
@@ -8158,9 +8158,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74.6,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 79,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 3207,
@@ -8213,8 +8213,8 @@
     },
     "lifeExpectancy": {
      "value": 70.7,
-     "year": 2016,
-     "source": "wikidata"
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2335,
@@ -8266,9 +8266,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74.3,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 76.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 905,
@@ -8306,7 +8306,7 @@
      "source": "worldbank"
     },
     "area": {
-     "value": 1886068,
+     "value": 1878000,
      "source": "wikidata"
     },
     "gdp": {
@@ -8320,16 +8320,16 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 66,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 66.5,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 3042,
      "source": "wikidata"
     },
     "density": {
-     "value": 27.39,
+     "value": 27.51,
      "year": 2025,
      "source": "derived"
     }
@@ -8375,9 +8375,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 83,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 84.1,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2097,
@@ -8429,9 +8429,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 83,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 83.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 164,
@@ -8457,7 +8457,7 @@
     46.11666666,
     14.81666666
    ],
-   "fame": 331,
+   "fame": 332,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Slovenia",
     "hu": "https://hu.wikipedia.org/wiki/Szlov%C3%A9nia"
@@ -8483,9 +8483,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 81,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 82.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2864,
@@ -8538,9 +8538,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 78.4,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2655,
@@ -8592,9 +8592,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 51.8,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 62,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1945,
@@ -8646,9 +8646,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 85.4,
-     "year": 2012,
-     "source": "wikidata"
+     "value": 85.8,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 756,
@@ -8700,9 +8700,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 67.1,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 68.9,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 531,
@@ -8754,9 +8754,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 56.3,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 59,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2460,
@@ -8808,9 +8808,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 70,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 73.8,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1280,
@@ -8862,9 +8862,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 56.8,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 57.7,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 3187,
@@ -8916,9 +8916,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 66.6,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 69.9,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2024,
@@ -8944,7 +8944,7 @@
     13.83333333,
     -88.91666666
    ],
-   "fame": 288,
+   "fame": 289,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/El_Salvador",
     "hu": "https://hu.wikipedia.org/wiki/Salvador"
@@ -8970,9 +8970,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 73.5,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 72.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2730,
@@ -8998,7 +8998,7 @@
     35,
     38
    ],
-   "fame": 337,
+   "fame": 338,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Syria",
     "hu": "https://hu.wikipedia.org/wiki/Sz%C3%ADria"
@@ -9024,9 +9024,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 72,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 72.6,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2814,
@@ -9078,8 +9078,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 46.9,
-     "year": 2009,
+     "value": 64.3,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -9106,7 +9106,7 @@
     15,
     19
    ],
-   "fame": 318,
+   "fame": 319,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Chad",
     "hu": "https://hu.wikipedia.org/wiki/Cs%C3%A1d"
@@ -9132,9 +9132,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 52.9,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 55.2,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 3445,
@@ -9186,9 +9186,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 60.2,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 62.9,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 986,
@@ -9240,8 +9240,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74.7,
-     "year": 2009,
+     "value": 76.6,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -9294,9 +9294,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 71.1,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 71.9,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 7495,
@@ -9322,7 +9322,7 @@
     -8.83333333,
     125.91666666
    ],
-   "fame": 291,
+   "fame": 292,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Timor-Leste",
     "hu": "https://hu.wikipedia.org/wiki/Kelet-Timor"
@@ -9348,8 +9348,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 63.3,
-     "year": 2009,
+     "value": 67.9,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -9402,9 +9402,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 67.8,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 70.2,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 3139,
@@ -9430,7 +9430,7 @@
     34,
     9
    ],
-   "fame": 328,
+   "fame": 329,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Tunisia",
     "hu": "https://hu.wikipedia.org/wiki/Tun%C3%A9zia"
@@ -9456,9 +9456,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 75.7,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 76.7,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1544,
@@ -9484,7 +9484,7 @@
     -20,
     -175
    ],
-   "fame": 261,
+   "fame": 263,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Tonga",
     "hu": "https://hu.wikipedia.org/wiki/Tonga"
@@ -9510,9 +9510,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 73,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 73.1,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1030,
@@ -9564,9 +9564,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 78,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 77.4,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 5137,
@@ -9618,9 +9618,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 70.7,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 73.6,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 940,
@@ -9646,7 +9646,7 @@
     -8,
     178
    ],
-   "fame": 253,
+   "fame": 255,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Tuvalu",
     "hu": "https://hu.wikipedia.org/wiki/Tuvalu"
@@ -9672,9 +9672,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 65,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 67.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 5,
@@ -9700,7 +9700,7 @@
     23.5,
     121
    ],
-   "fame": 315,
+   "fame": 316,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Taiwan",
     "hu": "https://hu.wikipedia.org/wiki/K%C3%ADnai_K%C3%B6zt%C3%A1rsas%C3%A1g"
@@ -9770,8 +9770,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 60.5,
-     "year": 2009,
+     "value": 67.2,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -9824,9 +9824,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 69,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 74.7,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 2061,
@@ -9878,9 +9878,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 59.9,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 68.5,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 5109,
@@ -9906,7 +9906,7 @@
     38,
     -97
    ],
-   "fame": 426,
+   "fame": 427,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/United_States",
     "hu": "https://hu.wikipedia.org/wiki/Amerikai_Egyes%C3%BClt_%C3%81llamok"
@@ -9918,7 +9918,7 @@
      "source": "worldbank"
     },
     "area": {
-     "value": 9826675,
+     "value": 9833517,
      "source": "wikidata"
     },
     "gdp": {
@@ -9932,16 +9932,16 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 78.9,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 6190,
      "source": "wikidata"
     },
     "density": {
-     "value": 34.78,
+     "value": 34.76,
      "year": 2025,
      "source": "derived"
     }
@@ -9960,7 +9960,7 @@
     -33,
     -56
    ],
-   "fame": 324,
+   "fame": 325,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Uruguay",
     "hu": "https://hu.wikipedia.org/wiki/Uruguay"
@@ -9986,9 +9986,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 77.5,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 78.3,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 514,
@@ -10040,9 +10040,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 72,
-     "year": 2022,
-     "source": "wikidata"
+     "value": 72.5,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 4643,
@@ -10133,9 +10133,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 73.2,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 71.4,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1220,
@@ -10161,7 +10161,7 @@
     8,
     -66
    ],
-   "fame": 346,
+   "fame": 347,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Venezuela",
     "hu": "https://hu.wikipedia.org/wiki/Venezuela"
@@ -10215,7 +10215,7 @@
     16.16666666,
     107.83333333
    ],
-   "fame": 369,
+   "fame": 370,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Vietnam",
     "hu": "https://hu.wikipedia.org/wiki/Vietn%C3%A1m"
@@ -10241,9 +10241,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 76.3,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 74.7,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 3147,
@@ -10269,7 +10269,7 @@
     -16,
     167
    ],
-   "fame": 264,
+   "fame": 266,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Vanuatu",
     "hu": "https://hu.wikipedia.org/wiki/Vanuatu"
@@ -10295,9 +10295,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 72.1,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 71.7,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 1879,
@@ -10323,7 +10323,7 @@
     -13.58333333,
     -172.33333333
    ],
-   "fame": 261,
+   "fame": 263,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Samoa",
     "hu": "https://hu.wikipedia.org/wiki/Szamoa"
@@ -10349,8 +10349,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 69.5,
-     "year": 2009,
+     "value": 71.8,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -10377,7 +10377,7 @@
     42.666667,
     21.166667
    ],
-   "fame": 284,
+   "fame": 285,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Kosovo",
     "hu": "https://hu.wikipedia.org/wiki/Koszov%C3%B3"
@@ -10403,8 +10403,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 74.8,
-     "year": 2009,
+     "value": 78.2,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -10431,7 +10431,7 @@
     15,
     48
    ],
-   "fame": 315,
+   "fame": 318,
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Yemen",
     "hu": "https://hu.wikipedia.org/wiki/Jemen"
@@ -10457,9 +10457,9 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 65,
-     "year": 2016,
-     "source": "wikidata"
+     "value": 69.4,
+     "year": 2024,
+     "source": "worldbank"
     },
     "highestPoint": {
      "value": 3666,
@@ -10497,7 +10497,7 @@
      "source": "worldbank"
     },
     "area": {
-     "value": 1221037,
+     "value": 1220813,
      "source": "wikidata"
     },
     "gdp": {
@@ -10511,8 +10511,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 57.4,
-     "year": 2009,
+     "value": 66.3,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -10520,7 +10520,7 @@
      "source": "wikidata"
     },
     "density": {
-     "value": 53.03,
+     "value": 53.04,
      "year": 2025,
      "source": "derived"
     }
@@ -10566,8 +10566,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 55.9,
-     "year": 2009,
+     "value": 66.5,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
@@ -10620,8 +10620,8 @@
      "source": "worldbank"
     },
     "lifeExpectancy": {
-     "value": 49.8,
-     "year": 2009,
+     "value": 63.1,
+     "year": 2024,
      "source": "worldbank"
     },
     "highestPoint": {
